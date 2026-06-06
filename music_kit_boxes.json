@@ -1,0 +1,540 @@
+[
+  {
+    "id": "crate-50004",
+    "name": "ClassicCounter Music Kit Box",
+    "description": "This box contains a variety of music kits from various composers ranging from music kits that were included during the entire lifetime of CS:GO and custom ones added specifically for ClassicCounter.",
+    "image": "https://ollumcc.github.io/inventory/imgs/crates/crate_musickit_classiccounter_capsule.png",
+    "items": [
+      {
+        "name": "Music Kit | 3kliksphilip, Heading for the Source",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/3kliksphilip_01_png.png"
+      },
+      {
+        "name": "Music Kit | AWOLNATION, I Am",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/awolnation_01_png.png"
+      },
+      {
+        "name": "Music Kit | Amon Tobin, All for Dust",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/amontobin_01_png.png"
+      },
+      {
+        "name": "Music Kit | Austin Wintory, Bachram",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/austinwintory_02_png.png"
+      },
+      {
+        "name": "Music Kit | Austin Wintory, Desert Fire",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/austinwintory_01_png.png"
+      },
+      {
+        "name": "Music Kit | Austin Wintory, Mocha Petal",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/austinwintory_03_png.png"
+      },
+      {
+        "name": "Music Kit | Beartooth, Aggressive",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/beartooth_02_png.png"
+      },
+      {
+        "name": "Music Kit | Beartooth, Disgusting",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/beartooth_01_png.png"
+      },
+      {
+        "name": "Music Kit | Bladee, Side by Side",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/music_kits/bladee_01.png"
+      },
+      {
+        "name": "Music Kit | Blitz Kids, The Good Youth",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/blitzkids_01_png.png"
+      },
+      {
+        "name": "Music Kit | Chipzel, ~Yellow Magic~",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/chipzel_01_png.png"
+      },
+      {
+        "name": "Music Kit | Cody Luv, GTFOB",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/music_kits/codyluv_01.png"
+      },
+      {
+        "name": "Music Kit | Damjan Mravunac, The Talos Principle",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/damjanmravunac_01_png.png"
+      },
+      {
+        "name": "Music Kit | Daniel Sadowski, Crimson Assault",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/danielsadowski_01_png.png"
+      },
+      {
+        "name": "Music Kit | Daniel Sadowski, Eye of the Dragon",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/danielsadowski_04_png.png"
+      },
+      {
+        "name": "Music Kit | Daniel Sadowski, The 8-Bit Kit",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/danielsadowski_03_png.png"
+      },
+      {
+        "name": "Music Kit | Daniel Sadowski, Total Domination",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/danielsadowski_02_png.png"
+      },
+      {
+        "name": "Music Kit | Darren Korb, Hades Music Kit",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/hades_01_png.png"
+      },
+      {
+        "name": "Music Kit | Darude, Moments CS:GO",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/darude_01_png.png"
+      },
+      {
+        "name": "Music Kit | Denzel Curry, ULTIMATE",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/denzelcurry_01_png.png"
+      },
+      {
+        "name": "Music Kit | Dren, Death's Head Demolition",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/dren_01_png.png"
+      },
+      {
+        "name": "Music Kit | Dren, Gunman Taco Truck",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/dren_02_png.png"
+      },
+      {
+        "name": "Music Kit | Feed Me, High Noon",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/feedme_01_png.png"
+      },
+      {
+        "name": "Music Kit | Freaky DNA, Vici",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/freakydna_01_png.png"
+      },
+      {
+        "name": "Music Kit | Half-Life: Alyx, Anti-Citizen",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/hlalyx_01_png.png"
+      },
+      {
+        "name": "Music Kit | Halo, The Master Chief Collection",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/halo_01_png.png"
+      },
+      {
+        "name": "Music Kit | Humanity's Last Breath, Void",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/hlb_01_png.png"
+      },
+      {
+        "name": "Music Kit | Hundredth, FREE",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/hundredth_01_png.png"
+      },
+      {
+        "name": "Music Kit | Ian Hultquist, Lion's Mouth",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/ianhultquist_01_png.png"
+      },
+      {
+        "name": "Music Kit | Izaya Tiji, Adjacent",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/music_kits/izayatiji_01.png"
+      },
+      {
+        "name": "Music Kit | Jesse Harlin, Astro Bellum",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/jesseharlin_01_png.png"
+      },
+      {
+        "name": "Music Kit | Juelz, Shooters",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/juelz_01_png.png"
+      },
+      {
+        "name": "Music Kit | Kelly Bailey, Hazardous Environments",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/kellybailey_01_png.png"
+      },
+      {
+        "name": "Music Kit | Ki:Theory, MOLOTOV",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/kitheory_01_png.png"
+      },
+      {
+        "name": "Music Kit | Knock2, dashstar*",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/knock2_01_png.png"
+      },
+      {
+        "name": "Music Kit | Laura Shigihara: Work Hard, Play Hard",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/laurashigihara_01_png.png"
+      },
+      {
+        "name": "Music Kit | Lennie Moore, Java Havana Funkaloo",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/lenniemoore_01_png.png"
+      },
+      {
+        "name": "Music Kit | Mateo Messina, For No Mankind",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/mateomessina_01_png.png"
+      },
+      {
+        "name": "Music Kit | Matt Lange, IsoRhythm",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/mattlange_01_png.png"
+      },
+      {
+        "name": "Music Kit | Matt Levine, Drifter",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/mattlevine_01_png.png"
+      },
+      {
+        "name": "Music Kit | Meechy Darko, Gothic Luxury",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/meechydarko_01_png.png"
+      },
+      {
+        "name": "Music Kit | Michael Bross, Invasion!",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/michaelbross_01_png.png"
+      },
+      {
+        "name": "Music Kit | Midnight Riders, All I Want for Christmas",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/midnightriders_01_png.png"
+      },
+      {
+        "name": "Music Kit | Mord Fustang, Diamonds",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/mordfustang_01_png.png"
+      },
+      {
+        "name": "Music Kit | Neck Deep, Life's Not Out To Get You",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/neckdeep_01_png.png"
+      },
+      {
+        "name": "Music Kit | Neck Deep, The Lowlife Pack",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/neckdeep_02_png.png"
+      },
+      {
+        "name": "Music Kit | New Beat Fund, Sponge Fingerz",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/newbeatfund_01_png.png"
+      },
+      {
+        "name": "Music Kit | Noisia, Sharpened",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/noisia_01_png.png"
+      },
+      {
+        "name": "Music Kit | Perfect World, 花脸 Hua Lian (Painted Face)",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/perfectworld_01_png.png"
+      },
+      {
+        "name": "Music Kit | Proxy, Battlepack",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/proxy_01_png.png"
+      },
+      {
+        "name": "Music Kit | Roam, Backbone",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/roam_01_png.png"
+      },
+      {
+        "name": "Music Kit | Robert Allaire, Insurgency",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/robertallaire_01_png.png"
+      },
+      {
+        "name": "Music Kit | Sam Marshall, Bodacious",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/sammarshall_01_png.png"
+      },
+      {
+        "name": "Music Kit | Sarah Schachner, KOLIBRI",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/sarahschachner_01_png.png"
+      },
+      {
+        "name": "Music Kit | Sasha, LNOE",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/sasha_01_png.png"
+      },
+      {
+        "name": "Music Kit | Scarlxrd, CHAIN$AW.LXADXUT.",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/scarlxrd_02_png.png"
+      },
+      {
+        "name": "Music Kit | Scarlxrd: King, Scar",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/scarlxrd_01_png.png"
+      },
+      {
+        "name": "Music Kit | Sean Murray, A*D*8",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/seanmurray_01_png.png"
+      },
+      {
+        "name": "Music Kit | Skog, II-Headshot",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/skog_02_png.png"
+      },
+      {
+        "name": "Music Kit | Skog, III-Arena",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/skog_03_png.png"
+      },
+      {
+        "name": "Music Kit | Skog, Metal",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/skog_01_png.png"
+      },
+      {
+        "name": "Music Kit | Sullivan King, Lock Me Up",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/sullivanking_01_png.png"
+      },
+      {
+        "name": "Music Kit | The Verkkars & n0thing, Flashbang Dance",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/theverkkars_02_png.png"
+      },
+      {
+        "name": "Music Kit | The Verkkars, EZ4ENCE",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/theverkkars_01_png.png"
+      },
+      {
+        "name": "Music Kit | Tim Huling, Neo Noir",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/timhuling_01_png.png"
+      },
+      {
+        "name": "Music Kit | Tree Adams and Ben Bromfield, M.U.D.D. FORCE",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/treeadams_benbromfield_01_png.png"
+      },
+      {
+        "name": "Music Kit | Troels Folmann, Uber Blasto Phone",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/troelsfolmann_01_png.png"
+      },
+      {
+        "name": "Music Kit | Twin Atlantic, GLA",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/twinatlantic_01_png.png"
+      },
+      {
+        "name": "Music Kit | Various Artists, Hotline Miami",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/hotlinemiami_01_png.png"
+      },
+      {
+        "name": "Music Kit | Weiland, Colors",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/music_kits/weiland_01.png"
+      },
+      {
+        "name": "Music Kit | bbno$, u mad!",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/music_kits/bbnos_01_png.png"
+      }
+    ]
+  },
+  {
+    "id": "crate-50007",
+    "name": "NOVAGANG Music Kit Box",
+    "description": "This box contains a variety of music kits from projects created by members of NOVAGANG, an underground music and creative collective, in official collaboration with ClassicCounter.",
+    "image": "https://raw.githubusercontent.com/edd13s/ClassicCounter-Item-Images/refs/heads/main/images/musickitbox_novagang_01.png",
+    "items": [
+      {
+        "name": "Music Kit | Exodus1900, Dysocjacja",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/edd13s/ClassicCounter-Item-Images/refs/heads/main/images/musickit_dysocjacja.png"
+      },
+      {
+        "name": "Music Kit | Exodus1900, Inure+Idyllic",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/edd13s/ClassicCounter-Item-Images/refs/heads/main/images/musickit_inure%2Bidyllic.png"
+      },
+      {
+        "name": "Music Kit | NOVAGANG, H.T.N.G.",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/edd13s/ClassicCounter-Item-Images/refs/heads/main/images/musickit_htng.png"
+      },
+      {
+        "name": "Music Kit | NOVAGANG, H.T.N.G. VOL. 2: JUDGEMENT DAY",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/edd13s/ClassicCounter-Item-Images/refs/heads/main/images/musickit_htng_vol2_judgement_day.png"
+      },
+      {
+        "name": "Music Kit | Trauma, Vai S.//3 バロック",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/edd13s/ClassicCounter-Item-Images/refs/heads/main/images/musickit_vai_s3.png"
+      },
+      {
+        "name": "Music Kit | Trauma, sonata de lluvia　（卸ぬマ）（卸ぬマ）",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/edd13s/ClassicCounter-Item-Images/refs/heads/main/images/musickit_sonata_de_lluvia.png"
+      },
+      {
+        "name": "Music Kit | Ways, Atticus",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/edd13s/ClassicCounter-Item-Images/refs/heads/main/images/musickit_atticus.png"
+      },
+      {
+        "name": "Music Kit | Ways, You Lose Forever",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/edd13s/ClassicCounter-Item-Images/refs/heads/main/images/musickit_you_lose_forever.png"
+      },
+      {
+        "name": "Music Kit | Zephrxd, 760",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/edd13s/ClassicCounter-Item-Images/refs/heads/main/images/musickit_760.png"
+      },
+      {
+        "name": "Music Kit | Zephrxd, THE HELLSING CONSPIRACY",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/edd13s/ClassicCounter-Item-Images/refs/heads/main/images/musickit_the_hellsing_conspiracy.png"
+      },
+      {
+        "name": "Music Kit | Zootzie, No Body",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/edd13s/ClassicCounter-Item-Images/refs/heads/main/images/musickit_no_body.png"
+      },
+      {
+        "name": "Music Kit | Zootzie, Terminal Z",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/edd13s/ClassicCounter-Item-Images/refs/heads/main/images/musickit_terminal_z.png"
+      },
+      {
+        "name": "Music Kit | gv1nn, FREE GEEK",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/edd13s/ClassicCounter-Item-Images/refs/heads/main/images/musickit_free_geek.png"
+      },
+      {
+        "name": "Music Kit | gv1nn, bits and pieces",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/edd13s/ClassicCounter-Item-Images/refs/heads/main/images/musickit_bits_and_pieces_01.png"
+      },
+      {
+        "name": "Music Kit | prblm, Veire Dawf",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/edd13s/ClassicCounter-Item-Images/refs/heads/main/images/musickit_veire_dawf_01.png"
+      },
+      {
+        "name": "Music Kit | prblm, [x]''TheDevilMayCry!''",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/edd13s/ClassicCounter-Item-Images/refs/heads/main/images/musickit_thedevilmaycry.png"
+      }
+    ]
+  }
+]

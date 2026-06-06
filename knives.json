@@ -1,0 +1,2079 @@
+[
+  {
+    "id": "bayonet",
+    "name": "Bayonet",
+    "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bayonet.png",
+    "items": [
+      {
+        "name": "★ Bayonet",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bayonet.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Bayonet | Blue Steel",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bayonet_aq_blued_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Bayonet | Boreal Forest",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bayonet_hy_forest_boreal_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Bayonet | Case Hardened",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bayonet_aq_oiled_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Bayonet | Crimson Web",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bayonet_hy_webs_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Bayonet | Damascus Steel",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bayonet_aq_damascus_light_large.png",
+        "min_float": 0,
+        "max_float": 0.5
+      },
+      {
+        "name": "★ Bayonet | Doppler Ruby",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bayonet_am_ruby_marbleized_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Bayonet | Doppler Sapphire",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bayonet_am_sapphire_marbleized_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Bayonet | Doppler Blackpearl",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bayonet_am_blackpearl_marbleized_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Bayonet | Doppler Phase 1",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bayonet_am_doppler_phase1_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Bayonet | Doppler Phase 2",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bayonet_am_doppler_phase2_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Bayonet | Doppler Phase 3",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bayonet_am_doppler_phase3_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Bayonet | Doppler Phase 4",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bayonet_am_doppler_phase4_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Bayonet | Fade",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bayonet_aa_fade_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Bayonet | Forest DDPAT",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bayonet_hy_ddpat_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Bayonet | Marble Fade",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bayonet_am_marble_fade_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Bayonet | Night",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bayonet_so_night_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Bayonet | Rust Coat",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bayonet_aq_steel_knife_light_large.png",
+        "min_float": 0.4,
+        "max_float": 1
+      },
+      {
+        "name": "★ Bayonet | Safari Mesh",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bayonet_sp_mesh_tan_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Bayonet | Scorched",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bayonet_sp_dapple_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Bayonet | Slaughter",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bayonet_am_zebra_light_large.png",
+        "min_float": 0.01,
+        "max_float": 0.26
+      },
+      {
+        "name": "★ Bayonet | Stained",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bayonet_aq_forced_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Bayonet | Tiger Tooth",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bayonet_an_tiger_orange_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Bayonet | Ultraviolet",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bayonet_so_purple_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Bayonet | Urban Masked",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bayonet_sp_tape_urban_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      }
+    ]
+  },
+  {
+    "id": "bowie_knife",
+    "name": "Bowie Knife",
+    "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_survival_bowie.png",
+    "items": [
+      {
+        "name": "★ Bowie Knife",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_survival_bowie.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Bowie Knife | Blue Steel",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_survival_bowie_aq_blued_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Bowie Knife | Boreal Forest",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_survival_bowie_hy_forest_boreal_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Bowie Knife | Case Hardened",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_survival_bowie_aq_oiled_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Bowie Knife | Crimson Web",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_survival_bowie_hy_webs_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Bowie Knife | Fade",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_survival_bowie_aa_fade_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Bowie Knife | Forest DDPAT",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_survival_bowie_hy_ddpat_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Bowie Knife | Night",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_survival_bowie_so_night_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Bowie Knife | Safari Mesh",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_survival_bowie_sp_mesh_tan_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Bowie Knife | Scorched",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_survival_bowie_sp_dapple_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Bowie Knife | Slaughter",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_survival_bowie_am_zebra_light_large.png",
+        "min_float": 0.01,
+        "max_float": 0.26
+      },
+      {
+        "name": "★ Bowie Knife | Stained",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_survival_bowie_aq_forced_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Bowie Knife | Urban Masked",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_survival_bowie_sp_tape_urban_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      }
+    ]
+  },
+  {
+    "id": "butterfly_knife",
+    "name": "Butterfly Knife",
+    "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_butterfly.png",
+    "items": [
+      {
+        "name": "★ Butterfly Knife",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_butterfly.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Butterfly Knife | Blue Steel",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_butterfly_aq_blued_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Butterfly Knife | Boreal Forest",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_butterfly_hy_forest_boreal_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Butterfly Knife | Case Hardened",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_butterfly_aq_oiled_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Butterfly Knife | Crimson Web",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_butterfly_hy_webs_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Butterfly Knife | Fade",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_butterfly_aa_fade_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Butterfly Knife | Forest DDPAT",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_butterfly_hy_ddpat_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Butterfly Knife | Night",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_butterfly_so_night_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Butterfly Knife | Safari Mesh",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_butterfly_sp_mesh_tan_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Butterfly Knife | Scorched",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_butterfly_sp_dapple_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Butterfly Knife | Slaughter",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_butterfly_am_zebra_light_large.png",
+        "min_float": 0.01,
+        "max_float": 0.26
+      },
+      {
+        "name": "★ Butterfly Knife | Stained",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_butterfly_aq_forced_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Butterfly Knife | Urban Masked",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_butterfly_sp_tape_urban_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      }
+    ]
+  },
+  {
+    "id": "classic_knife",
+    "name": "Classic Knife",
+    "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_css.png",
+    "items": [
+      {
+        "name": "★ Classic Knife",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_css.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Classic Knife | Arctic Camo",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_css_arcticcamo.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Classic Knife | Blue Steel",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_css_bluesteel.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Classic Knife | Boreal Forest",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_css_borealforest.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Classic Knife | Case Hardened",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_css_casehardened.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Classic Knife | Crimson Web",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_css_crimsonweb.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Classic Knife | Doppler Ruby",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_css_ruby.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Classic Knife | Doppler Sapphire",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_css_sapphire.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Classic Knife | Doppler Blackpearl",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_css_blackpearl.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Classic Knife | Doppler Phase 1",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_css_doppler_phase1.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Classic Knife | Doppler Phase 2",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_css_doppler_phase2.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Classic Knife | Doppler Phase 3",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_css_doppler_phase3.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Classic Knife | Doppler Phase 4",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_css_doppler_phase4.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Classic Knife | Fade",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_css_fade.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Classic Knife | Forest DDPAT",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_css_forestddpat.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Classic Knife | Gamma Doppler Emerald",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_css_emerald.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Classic Knife | Gamma Doppler Phase 1",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_css_gammadoppler_phase1.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Classic Knife | Gamma Doppler Phase 2",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_css_gammadoppler_phase2.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Classic Knife | Gamma Doppler Phase 3",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_css_gammadoppler_phase3.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Classic Knife | Gamma Doppler Phase 4",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_css_gammadoppler_phase4.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Classic Knife | Hydroponic",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_css_hydroponic.png",
+        "min_float": 0,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Classic Knife | Hypnotic",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_css_hypnotic.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Classic Knife | Malachite",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_css_malachite.png",
+        "min_float": 0,
+        "max_float": 0.5
+      },
+      {
+        "name": "★ Classic Knife | Night",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_css_night.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Classic Knife | Nuclear Garden",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_css_nucleargarden.png",
+        "min_float": 0,
+        "max_float": 0.7
+      },
+      {
+        "name": "★ Classic Knife | Oceanic",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_css_oceanic.png",
+        "min_float": 0,
+        "max_float": 0.6
+      },
+      {
+        "name": "★ Classic Knife | Pink DDPAT",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_css_pinkddpat.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Classic Knife | Safari Mesh",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_css_safarimesh.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Classic Knife | Scorched",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_css_scorched.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Classic Knife | Slaughter",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_css_slaughter.png",
+        "min_float": 0.01,
+        "max_float": 0.26
+      },
+      {
+        "name": "★ Classic Knife | Stained",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_css_stained.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Classic Knife | Tuxedo",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_css_tuxedo.png",
+        "min_float": 0,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Classic Knife | Urban Masked",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_css_urbanmasked.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      }
+    ]
+  },
+  {
+    "id": "falchion_knife",
+    "name": "Falchion Knife",
+    "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_falchion.png",
+    "items": [
+      {
+        "name": "★ Falchion Knife",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_falchion.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Falchion Knife | Blue Steel",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_falchion_aq_blued_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Falchion Knife | Boreal Forest",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_falchion_hy_forest_boreal_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Falchion Knife | Case Hardened",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_falchion_aq_oiled_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Falchion Knife | Crimson Web",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_falchion_hy_webs_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Falchion Knife | Fade",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_falchion_aa_fade_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Falchion Knife | Forest DDPAT",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_falchion_hy_ddpat_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Falchion Knife | Night",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_falchion_so_night_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Falchion Knife | Safari Mesh",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_falchion_sp_mesh_tan_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Falchion Knife | Scorched",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_falchion_sp_dapple_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Falchion Knife | Slaughter",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_falchion_am_zebra_light_large.png",
+        "min_float": 0.01,
+        "max_float": 0.26
+      },
+      {
+        "name": "★ Falchion Knife | Stained",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_falchion_aq_forced_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Falchion Knife | Urban Masked",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_falchion_sp_tape_urban_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      }
+    ]
+  },
+  {
+    "id": "flip_knife",
+    "name": "Flip Knife",
+    "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_flip.png",
+    "items": [
+      {
+        "name": "★ Flip Knife",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_flip.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Flip Knife | Blue Steel",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_flip_aq_blued_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Flip Knife | Boreal Forest",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_flip_hy_forest_boreal_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Flip Knife | Case Hardened",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_flip_aq_oiled_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Flip Knife | Crimson Web",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_flip_hy_webs_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Flip Knife | Damascus Steel",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_flip_aq_damascus_light_large.png",
+        "min_float": 0,
+        "max_float": 0.5
+      },
+      {
+        "name": "★ Flip Knife | Doppler Ruby",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_flip_am_ruby_marbleized_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Flip Knife | Doppler Sapphire",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_flip_am_sapphire_marbleized_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Flip Knife | Doppler Blackpearl",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_flip_am_blackpearl_marbleized_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Flip Knife | Doppler Phase 1",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_flip_am_doppler_phase1_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Flip Knife | Doppler Phase 2",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_flip_am_doppler_phase2_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Flip Knife | Doppler Phase 3",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_flip_am_doppler_phase3_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Flip Knife | Doppler Phase 4",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_flip_am_doppler_phase4_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Flip Knife | Fade",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_flip_aa_fade_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Flip Knife | Forest DDPAT",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_flip_hy_ddpat_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Flip Knife | Marble Fade",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_flip_am_marble_fade_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Flip Knife | Night",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_flip_so_night_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Flip Knife | Rust Coat",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_flip_aq_steel_knife_light_large.png",
+        "min_float": 0.4,
+        "max_float": 1
+      },
+      {
+        "name": "★ Flip Knife | Safari Mesh",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_flip_sp_mesh_tan_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Flip Knife | Scorched",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_flip_sp_dapple_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Flip Knife | Slaughter",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_flip_am_zebra_light_large.png",
+        "min_float": 0.01,
+        "max_float": 0.26
+      },
+      {
+        "name": "★ Flip Knife | Stained",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_flip_aq_forced_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Flip Knife | Tiger Tooth",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_flip_an_tiger_orange_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Flip Knife | Ultraviolet",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_flip_so_purple_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Flip Knife | Urban Masked",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_flip_sp_tape_urban_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      }
+    ]
+  },
+  {
+    "id": "gut_knife",
+    "name": "Gut Knife",
+    "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_gut.png",
+    "items": [
+      {
+        "name": "★ Gut Knife",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_gut.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Gut Knife | Blue Steel",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_gut_aq_blued_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Gut Knife | Boreal Forest",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_gut_hy_forest_boreal_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Gut Knife | Case Hardened",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_gut_aq_oiled_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Gut Knife | Crimson Web",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_gut_hy_webs_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Gut Knife | Damascus Steel",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_gut_aq_damascus_light_large.png",
+        "min_float": 0,
+        "max_float": 0.5
+      },
+      {
+        "name": "★ Gut Knife | Doppler Ruby",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_gut_am_ruby_marbleized_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Gut Knife | Doppler Sapphire",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_gut_am_sapphire_marbleized_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Gut Knife | Doppler Blackpearl",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_gut_am_blackpearl_marbleized_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Gut Knife | Doppler Phase 1",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_gut_am_doppler_phase1_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Gut Knife | Doppler Phase 2",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_gut_am_doppler_phase2_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Gut Knife | Doppler Phase 3",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_gut_am_doppler_phase3_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Gut Knife | Doppler Phase 4",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_gut_am_doppler_phase4_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Gut Knife | Fade",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_gut_aa_fade_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Gut Knife | Forest DDPAT",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_gut_hy_ddpat_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Gut Knife | Marble Fade",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_gut_am_marble_fade_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Gut Knife | Night",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_gut_so_night_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Gut Knife | Rust Coat",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_gut_aq_steel_knife_light_large.png",
+        "min_float": 0.4,
+        "max_float": 1
+      },
+      {
+        "name": "★ Gut Knife | Safari Mesh",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_gut_sp_mesh_tan_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Gut Knife | Scorched",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_gut_sp_dapple_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Gut Knife | Slaughter",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_gut_am_zebra_light_large.png",
+        "min_float": 0.01,
+        "max_float": 0.26
+      },
+      {
+        "name": "★ Gut Knife | Stained",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_gut_aq_forced_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Gut Knife | Tiger Tooth",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_gut_an_tiger_orange_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Gut Knife | Ultraviolet",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_gut_so_purple_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Gut Knife | Urban Masked",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_gut_sp_tape_urban_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      }
+    ]
+  },
+  {
+    "id": "huntsman_knife",
+    "name": "Huntsman Knife",
+    "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_tactical.png",
+    "items": [
+      {
+        "name": "★ Huntsman Knife",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_tactical.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Huntsman Knife | Blue Steel",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_tactical_aq_blued_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Huntsman Knife | Boreal Forest",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_tactical_hy_forest_boreal_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Huntsman Knife | Case Hardened",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_tactical_aq_oiled_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Huntsman Knife | Crimson Web",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_tactical_hy_webs_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Huntsman Knife | Fade",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_tactical_aa_fade_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Huntsman Knife | Forest DDPAT",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_tactical_hy_ddpat_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Huntsman Knife | Night",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_tactical_so_night_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Huntsman Knife | Safari Mesh",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_tactical_sp_mesh_tan_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Huntsman Knife | Scorched",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_tactical_sp_dapple_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Huntsman Knife | Slaughter",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_tactical_am_zebra_light_large.png",
+        "min_float": 0.01,
+        "max_float": 0.26
+      },
+      {
+        "name": "★ Huntsman Knife | Stained",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_tactical_aq_forced_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Huntsman Knife | Urban Masked",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_tactical_sp_tape_urban_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      }
+    ]
+  },
+  {
+    "id": "karambit",
+    "name": "Karambit",
+    "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_karambit.png",
+    "items": [
+      {
+        "name": "★ Karambit",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_karambit.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Karambit | Arctic Camo",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_karambit_arcticcamo.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Karambit | Blue Steel",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_karambit_aq_blued_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Karambit | Boreal Forest",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_karambit_hy_forest_boreal_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Karambit | Case Hardened",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_karambit_aq_oiled_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Karambit | Crimson Web",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_karambit_hy_webs_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Karambit | Damascus Steel",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_karambit_aq_damascus_light_large.png",
+        "min_float": 0,
+        "max_float": 0.5
+      },
+      {
+        "name": "★ Karambit | Doppler Ruby",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_karambit_am_ruby_marbleized_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Karambit | Doppler Sapphire",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_karambit_am_sapphire_marbleized_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Karambit | Doppler Blackpearl",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_karambit_am_blackpearl_marbleized_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Karambit | Doppler Phase 1",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_karambit_am_doppler_phase1_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Karambit | Doppler Phase 2",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_karambit_am_doppler_phase2_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Karambit | Doppler Phase 3",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_karambit_am_doppler_phase3_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Karambit | Doppler Phase 4",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_karambit_am_doppler_phase4_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Karambit | Fade",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_karambit_aa_fade_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Karambit | Forest DDPAT",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_karambit_hy_ddpat_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Karambit | Gamma Doppler Emerald",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_karambit_am_emerald_marbleized_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Karambit | Gamma Doppler Phase 1",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_karambit_am_gamma_doppler_phase1_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Karambit | Gamma Doppler Phase 2",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_karambit_am_gamma_doppler_phase2_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Karambit | Gamma Doppler Phase 3",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_karambit_am_gamma_doppler_phase3_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Karambit | Gamma Doppler Phase 4",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_karambit_am_gamma_doppler_phase4_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Karambit | Hydroponic",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_karambit_hydroponic.png",
+        "min_float": 0,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Karambit | Hypnotic",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_karambit_hypnotic.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Karambit | Malachite",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_karambit_malachite.png",
+        "min_float": 0,
+        "max_float": 0.5
+      },
+      {
+        "name": "★ Karambit | Marble Fade",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_karambit_am_marble_fade_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Karambit | Night",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_karambit_so_night_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Karambit | Nuclear Garden",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_karambit_nucleargarden.png",
+        "min_float": 0,
+        "max_float": 0.7
+      },
+      {
+        "name": "★ Karambit | Oceanic",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_karambit_oceanic.png",
+        "min_float": 0,
+        "max_float": 0.6
+      },
+      {
+        "name": "★ Karambit | Pink DDPAT",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_karambit_pinkddpat.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Karambit | Rust Coat",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_karambit_aq_steel_knife_light_large.png",
+        "min_float": 0.4,
+        "max_float": 1
+      },
+      {
+        "name": "★ Karambit | Safari Mesh",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_karambit_sp_mesh_tan_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Karambit | Scorched",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_karambit_sp_dapple_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Karambit | Slaughter",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_karambit_am_zebra_light_large.png",
+        "min_float": 0.01,
+        "max_float": 0.26
+      },
+      {
+        "name": "★ Karambit | Stained",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_karambit_aq_forced_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Karambit | Tiger Tooth",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_karambit_an_tiger_orange_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Karambit | Tuxedo",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_karambit_tuxedo.png",
+        "min_float": 0,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Karambit | Ultraviolet",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_karambit_so_purple_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Karambit | Urban Masked",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_karambit_sp_tape_urban_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      }
+    ]
+  },
+  {
+    "id": "m9_bayonet",
+    "name": "M9 Bayonet",
+    "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_m9_bayonet.png",
+    "items": [
+      {
+        "name": "★ M9 Bayonet",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_m9_bayonet.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ M9 Bayonet | Arctic Camo",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_m9_bayonet_arcticcamo.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ M9 Bayonet | Blue Steel",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_m9_bayonet_aq_blued_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ M9 Bayonet | Boreal Forest",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_m9_bayonet_hy_forest_boreal_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ M9 Bayonet | Case Hardened",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_m9_bayonet_aq_oiled_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ M9 Bayonet | Crimson Web",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_m9_bayonet_hy_webs_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ M9 Bayonet | Damascus Steel",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_m9_bayonet_aq_damascus_90_light_large.png",
+        "min_float": 0,
+        "max_float": 0.5
+      },
+      {
+        "name": "★ M9 Bayonet | Doppler Ruby",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_m9_bayonet_am_ruby_marbleized_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ M9 Bayonet | Doppler Sapphire",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_m9_bayonet_am_sapphire_marbleized_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ M9 Bayonet | Doppler Blackpearl",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_m9_bayonet_am_blackpearl_marbleized_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ M9 Bayonet | Doppler Phase 1",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_m9_bayonet_am_doppler_phase1_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ M9 Bayonet | Doppler Phase 2",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_m9_bayonet_am_doppler_phase2_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ M9 Bayonet | Doppler Phase 3",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_m9_bayonet_am_doppler_phase3_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ M9 Bayonet | Doppler Phase 4",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_m9_bayonet_am_doppler_phase4_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ M9 Bayonet | Fade",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_m9_bayonet_aa_fade_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ M9 Bayonet | Forest DDPAT",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_m9_bayonet_hy_ddpat_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ M9 Bayonet | Gamma Doppler Emerald",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_m9_bayonet_am_emerald_marbleized_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ M9 Bayonet | Gamma Doppler Phase 1",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_m9_bayonet_am_gamma_doppler_phase1_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ M9 Bayonet | Gamma Doppler Phase 2",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_m9_bayonet_am_gamma_doppler_phase2_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ M9 Bayonet | Gamma Doppler Phase 3",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_m9_bayonet_am_gamma_doppler_phase3_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ M9 Bayonet | Gamma Doppler Phase 4",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_m9_bayonet_am_gamma_doppler_phase4_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ M9 Bayonet | Hydroponic",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_m9_bayonet_hydroponic.png",
+        "min_float": 0,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ M9 Bayonet | Hypnotic",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_m9_bayonet_hypnotic.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ M9 Bayonet | Icedancer",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_m9_bayonet_icedancer.png",
+        "min_float": 0,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ M9 Bayonet | Malachite",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_m9_bayonet_malachite.png",
+        "min_float": 0,
+        "max_float": 0.5
+      },
+      {
+        "name": "★ M9 Bayonet | Marble Fade",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_m9_bayonet_am_marble_fade_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ M9 Bayonet | Night",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_m9_bayonet_so_night_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ M9 Bayonet | Nuclear Garden",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_m9_bayonet_nucleargarden.png",
+        "min_float": 0,
+        "max_float": 0.7
+      },
+      {
+        "name": "★ M9 Bayonet | Oceanic",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_m9_bayonet_oceanic.png",
+        "min_float": 0,
+        "max_float": 0.6
+      },
+      {
+        "name": "★ M9 Bayonet | Pink DDPAT",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_m9_bayonet_pinkddpat.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ M9 Bayonet | Rust Coat",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_m9_bayonet_aq_steel_knife_light_large.png",
+        "min_float": 0.4,
+        "max_float": 1
+      },
+      {
+        "name": "★ M9 Bayonet | Safari Mesh",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_m9_bayonet_sp_mesh_tan_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ M9 Bayonet | Scorched",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_m9_bayonet_sp_dapple_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ M9 Bayonet | Slaughter",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_m9_bayonet_am_zebra_light_large.png",
+        "min_float": 0.01,
+        "max_float": 0.26
+      },
+      {
+        "name": "★ M9 Bayonet | Stained",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_m9_bayonet_aq_forced_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ M9 Bayonet | Tiger Tooth",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_m9_bayonet_an_tiger_orange_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ M9 Bayonet | Tuxedo",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_m9_bayonet_tuxedo.png",
+        "min_float": 0,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ M9 Bayonet | Ultraviolet",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_m9_bayonet_so_purple_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ M9 Bayonet | Urban Masked",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_m9_bayonet_sp_tape_urban_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      }
+    ]
+  },
+  {
+    "id": "shadow_daggers",
+    "name": "Shadow Daggers",
+    "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_push.png",
+    "items": [
+      {
+        "name": "★ Shadow Daggers",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_push.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Shadow Daggers | Blue Steel",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_push_aq_blued_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Shadow Daggers | Boreal Forest",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_push_hy_forest_boreal_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Shadow Daggers | Case Hardened",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_push_aq_oiled_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Shadow Daggers | Crimson Web",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_push_hy_webs_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Shadow Daggers | Fade",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_push_aa_fade_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "★ Shadow Daggers | Forest DDPAT",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_push_hy_ddpat_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Shadow Daggers | Night",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_push_so_night_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Shadow Daggers | Safari Mesh",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_push_sp_mesh_tan_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Shadow Daggers | Scorched",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_push_sp_dapple_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "★ Shadow Daggers | Slaughter",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_push_am_zebra_light_large.png",
+        "min_float": 0.01,
+        "max_float": 0.26
+      },
+      {
+        "name": "★ Shadow Daggers | Stained",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_push_aq_forced_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "★ Shadow Daggers | Urban Masked",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_knife_push_sp_tape_urban_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      }
+    ]
+  }
+]
