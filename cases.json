@@ -1015,6 +1015,15 @@
         "max_float": 0.7
       },
       {
+        "name": "M4A4 | Howl",
+        "weapon": "M4A4",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/m4a4_oldhowl.png",
+        "min_float": 0,
+        "max_float": 0.4
+      },
+      {
         "name": "M4A1-S | Atomic Alloy",
         "weapon": "M4A1-S",
         "rarity": "Classified",
