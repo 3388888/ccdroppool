@@ -1,0 +1,1526 @@
+{
+  "_about": "Maps each knife (exact in-game name) to the case(s) it can drop from on ClassicCounter/eddies. Edit freely; keys must match the item 'name' in db_knives.json exactly.",
+  "_case_name_note": "Case names match db_cases.json. ClassicCounter #1 holds Gamma Dopplers, Classic Knife, Bowie aside, and all custom finishes.",
+  "knives": {
+    "★ Bayonet": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Bayonet | Blue Steel": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Bayonet | Boreal Forest": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Bayonet | Case Hardened": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Bayonet | Crimson Web": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Bayonet | Damascus Steel": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Bayonet | Doppler Blackpearl": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Bayonet | Doppler Phase 1": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Bayonet | Doppler Phase 2": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Bayonet | Doppler Phase 3": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Bayonet | Doppler Phase 4": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Bayonet | Doppler Ruby": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Bayonet | Doppler Sapphire": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Bayonet | Fade": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Bayonet | Forest DDPAT": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Bayonet | Marble Fade": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Bayonet | Night": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Bayonet | Rust Coat": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Bayonet | Safari Mesh": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Bayonet | Scorched": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Bayonet | Slaughter": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Bayonet | Stained": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Bayonet | Tiger Tooth": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Bayonet | Ultraviolet": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Bayonet | Urban Masked": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Bowie Knife": [
+      "Wildfire"
+    ],
+    "★ Bowie Knife | Blue Steel": [
+      "Wildfire"
+    ],
+    "★ Bowie Knife | Boreal Forest": [
+      "Wildfire"
+    ],
+    "★ Bowie Knife | Case Hardened": [
+      "Wildfire"
+    ],
+    "★ Bowie Knife | Crimson Web": [
+      "Wildfire"
+    ],
+    "★ Bowie Knife | Fade": [
+      "Wildfire"
+    ],
+    "★ Bowie Knife | Forest DDPAT": [
+      "Wildfire"
+    ],
+    "★ Bowie Knife | Night": [
+      "Wildfire"
+    ],
+    "★ Bowie Knife | Safari Mesh": [
+      "Wildfire"
+    ],
+    "★ Bowie Knife | Scorched": [
+      "Wildfire"
+    ],
+    "★ Bowie Knife | Slaughter": [
+      "Wildfire"
+    ],
+    "★ Bowie Knife | Stained": [
+      "Wildfire"
+    ],
+    "★ Bowie Knife | Urban Masked": [
+      "Wildfire"
+    ],
+    "★ Butterfly Knife": [
+      "Breakout"
+    ],
+    "★ Butterfly Knife | Blue Steel": [
+      "Breakout"
+    ],
+    "★ Butterfly Knife | Boreal Forest": [
+      "Breakout"
+    ],
+    "★ Butterfly Knife | Case Hardened": [
+      "Breakout"
+    ],
+    "★ Butterfly Knife | Crimson Web": [
+      "Breakout"
+    ],
+    "★ Butterfly Knife | Fade": [
+      "Breakout"
+    ],
+    "★ Butterfly Knife | Forest DDPAT": [
+      "Breakout"
+    ],
+    "★ Butterfly Knife | Night": [
+      "Breakout"
+    ],
+    "★ Butterfly Knife | Safari Mesh": [
+      "Breakout"
+    ],
+    "★ Butterfly Knife | Scorched": [
+      "Breakout"
+    ],
+    "★ Butterfly Knife | Slaughter": [
+      "Breakout"
+    ],
+    "★ Butterfly Knife | Stained": [
+      "Breakout"
+    ],
+    "★ Butterfly Knife | Urban Masked": [
+      "Breakout"
+    ],
+    "★ Classic Knife": [
+      "ClassicCounter #1"
+    ],
+    "★ Classic Knife | Arctic Camo": [
+      "ClassicCounter #1"
+    ],
+    "★ Classic Knife | Blue Steel": [
+      "ClassicCounter #1"
+    ],
+    "★ Classic Knife | Boreal Forest": [
+      "ClassicCounter #1"
+    ],
+    "★ Classic Knife | Case Hardened": [
+      "ClassicCounter #1"
+    ],
+    "★ Classic Knife | Crimson Web": [
+      "ClassicCounter #1"
+    ],
+    "★ Classic Knife | Doppler Blackpearl": [
+      "ClassicCounter #1"
+    ],
+    "★ Classic Knife | Doppler Phase 1": [
+      "ClassicCounter #1"
+    ],
+    "★ Classic Knife | Doppler Phase 2": [
+      "ClassicCounter #1"
+    ],
+    "★ Classic Knife | Doppler Phase 3": [
+      "ClassicCounter #1"
+    ],
+    "★ Classic Knife | Doppler Phase 4": [
+      "ClassicCounter #1"
+    ],
+    "★ Classic Knife | Doppler Ruby": [
+      "ClassicCounter #1"
+    ],
+    "★ Classic Knife | Doppler Sapphire": [
+      "ClassicCounter #1"
+    ],
+    "★ Classic Knife | Fade": [
+      "ClassicCounter #1"
+    ],
+    "★ Classic Knife | Forest DDPAT": [
+      "ClassicCounter #1"
+    ],
+    "★ Classic Knife | Gamma Doppler Emerald": [
+      "ClassicCounter #1"
+    ],
+    "★ Classic Knife | Gamma Doppler Phase 1": [
+      "ClassicCounter #1"
+    ],
+    "★ Classic Knife | Gamma Doppler Phase 2": [
+      "ClassicCounter #1"
+    ],
+    "★ Classic Knife | Gamma Doppler Phase 3": [
+      "ClassicCounter #1"
+    ],
+    "★ Classic Knife | Gamma Doppler Phase 4": [
+      "ClassicCounter #1"
+    ],
+    "★ Classic Knife | Hydroponic": [
+      "ClassicCounter #1"
+    ],
+    "★ Classic Knife | Hypnotic": [
+      "ClassicCounter #1"
+    ],
+    "★ Classic Knife | Malachite": [
+      "ClassicCounter #1"
+    ],
+    "★ Classic Knife | Night": [
+      "ClassicCounter #1"
+    ],
+    "★ Classic Knife | Nuclear Garden": [
+      "ClassicCounter #1"
+    ],
+    "★ Classic Knife | Oceanic": [
+      "ClassicCounter #1"
+    ],
+    "★ Classic Knife | Pink DDPAT": [
+      "ClassicCounter #1"
+    ],
+    "★ Classic Knife | Safari Mesh": [
+      "ClassicCounter #1"
+    ],
+    "★ Classic Knife | Scorched": [
+      "ClassicCounter #1"
+    ],
+    "★ Classic Knife | Slaughter": [
+      "ClassicCounter #1"
+    ],
+    "★ Classic Knife | Stained": [
+      "ClassicCounter #1"
+    ],
+    "★ Classic Knife | Tuxedo": [
+      "ClassicCounter #1"
+    ],
+    "★ Classic Knife | Urban Masked": [
+      "ClassicCounter #1"
+    ],
+    "★ Falchion Knife": [
+      "Falchion"
+    ],
+    "★ Falchion Knife | Blue Steel": [
+      "Falchion"
+    ],
+    "★ Falchion Knife | Boreal Forest": [
+      "Falchion"
+    ],
+    "★ Falchion Knife | Case Hardened": [
+      "Falchion"
+    ],
+    "★ Falchion Knife | Crimson Web": [
+      "Falchion"
+    ],
+    "★ Falchion Knife | Fade": [
+      "Falchion"
+    ],
+    "★ Falchion Knife | Forest DDPAT": [
+      "Falchion"
+    ],
+    "★ Falchion Knife | Night": [
+      "Falchion"
+    ],
+    "★ Falchion Knife | Safari Mesh": [
+      "Falchion"
+    ],
+    "★ Falchion Knife | Scorched": [
+      "Falchion"
+    ],
+    "★ Falchion Knife | Slaughter": [
+      "Falchion"
+    ],
+    "★ Falchion Knife | Stained": [
+      "Falchion"
+    ],
+    "★ Falchion Knife | Urban Masked": [
+      "Falchion"
+    ],
+    "★ Flip Knife": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Flip Knife | Blue Steel": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Flip Knife | Boreal Forest": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Flip Knife | Case Hardened": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Flip Knife | Crimson Web": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Flip Knife | Damascus Steel": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Flip Knife | Doppler Blackpearl": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Flip Knife | Doppler Phase 1": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Flip Knife | Doppler Phase 2": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Flip Knife | Doppler Phase 3": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Flip Knife | Doppler Phase 4": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Flip Knife | Doppler Ruby": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Flip Knife | Doppler Sapphire": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Flip Knife | Fade": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Flip Knife | Forest DDPAT": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Flip Knife | Marble Fade": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Flip Knife | Night": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Flip Knife | Rust Coat": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Flip Knife | Safari Mesh": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Flip Knife | Scorched": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Flip Knife | Slaughter": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Flip Knife | Stained": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Flip Knife | Tiger Tooth": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Flip Knife | Ultraviolet": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Flip Knife | Urban Masked": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Gut Knife": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Gut Knife | Blue Steel": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Gut Knife | Boreal Forest": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Gut Knife | Case Hardened": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Gut Knife | Crimson Web": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Gut Knife | Damascus Steel": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Gut Knife | Doppler Blackpearl": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Gut Knife | Doppler Phase 1": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Gut Knife | Doppler Phase 2": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Gut Knife | Doppler Phase 3": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Gut Knife | Doppler Phase 4": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Gut Knife | Doppler Ruby": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Gut Knife | Doppler Sapphire": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Gut Knife | Fade": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Gut Knife | Forest DDPAT": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Gut Knife | Marble Fade": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Gut Knife | Night": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Gut Knife | Rust Coat": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Gut Knife | Safari Mesh": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Gut Knife | Scorched": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Gut Knife | Slaughter": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Gut Knife | Stained": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Gut Knife | Tiger Tooth": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Gut Knife | Ultraviolet": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Gut Knife | Urban Masked": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Huntsman Knife": [
+      "Huntsman"
+    ],
+    "★ Huntsman Knife | Blue Steel": [
+      "Huntsman"
+    ],
+    "★ Huntsman Knife | Boreal Forest": [
+      "Huntsman"
+    ],
+    "★ Huntsman Knife | Case Hardened": [
+      "Huntsman"
+    ],
+    "★ Huntsman Knife | Crimson Web": [
+      "Huntsman"
+    ],
+    "★ Huntsman Knife | Fade": [
+      "Huntsman"
+    ],
+    "★ Huntsman Knife | Forest DDPAT": [
+      "Huntsman"
+    ],
+    "★ Huntsman Knife | Night": [
+      "Huntsman"
+    ],
+    "★ Huntsman Knife | Safari Mesh": [
+      "Huntsman"
+    ],
+    "★ Huntsman Knife | Scorched": [
+      "Huntsman"
+    ],
+    "★ Huntsman Knife | Slaughter": [
+      "Huntsman"
+    ],
+    "★ Huntsman Knife | Stained": [
+      "Huntsman"
+    ],
+    "★ Huntsman Knife | Urban Masked": [
+      "Huntsman"
+    ],
+    "★ Karambit": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Karambit | Arctic Camo": [
+      "ClassicCounter #1"
+    ],
+    "★ Karambit | Blue Steel": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Karambit | Boreal Forest": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Karambit | Case Hardened": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Karambit | Crimson Web": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Karambit | Damascus Steel": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Karambit | Doppler Blackpearl": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Karambit | Doppler Phase 1": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Karambit | Doppler Phase 2": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Karambit | Doppler Phase 3": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Karambit | Doppler Phase 4": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Karambit | Doppler Ruby": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Karambit | Doppler Sapphire": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Karambit | Fade": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Karambit | Forest DDPAT": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Karambit | Gamma Doppler Emerald": [
+      "ClassicCounter #1"
+    ],
+    "★ Karambit | Gamma Doppler Phase 1": [
+      "ClassicCounter #1"
+    ],
+    "★ Karambit | Gamma Doppler Phase 2": [
+      "ClassicCounter #1"
+    ],
+    "★ Karambit | Gamma Doppler Phase 3": [
+      "ClassicCounter #1"
+    ],
+    "★ Karambit | Gamma Doppler Phase 4": [
+      "ClassicCounter #1"
+    ],
+    "★ Karambit | Hydroponic": [
+      "ClassicCounter #1"
+    ],
+    "★ Karambit | Hypnotic": [
+      "ClassicCounter #1"
+    ],
+    "★ Karambit | Malachite": [
+      "ClassicCounter #1"
+    ],
+    "★ Karambit | Marble Fade": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Karambit | Night": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Karambit | Nuclear Garden": [
+      "ClassicCounter #1"
+    ],
+    "★ Karambit | Oceanic": [
+      "ClassicCounter #1"
+    ],
+    "★ Karambit | Pink DDPAT": [
+      "ClassicCounter #1"
+    ],
+    "★ Karambit | Rust Coat": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Karambit | Safari Mesh": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Karambit | Scorched": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Karambit | Slaughter": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Karambit | Stained": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Karambit | Tiger Tooth": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Karambit | Tuxedo": [
+      "ClassicCounter #1"
+    ],
+    "★ Karambit | Ultraviolet": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ Karambit | Urban Masked": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ M9 Bayonet": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ M9 Bayonet | Arctic Camo": [
+      "ClassicCounter #1"
+    ],
+    "★ M9 Bayonet | Blue Steel": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ M9 Bayonet | Boreal Forest": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ M9 Bayonet | Case Hardened": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ M9 Bayonet | Crimson Web": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ M9 Bayonet | Damascus Steel": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ M9 Bayonet | Doppler Blackpearl": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ M9 Bayonet | Doppler Phase 1": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ M9 Bayonet | Doppler Phase 2": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ M9 Bayonet | Doppler Phase 3": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ M9 Bayonet | Doppler Phase 4": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ M9 Bayonet | Doppler Ruby": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ M9 Bayonet | Doppler Sapphire": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ M9 Bayonet | Fade": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ M9 Bayonet | Forest DDPAT": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ M9 Bayonet | Gamma Doppler Emerald": [
+      "ClassicCounter #1"
+    ],
+    "★ M9 Bayonet | Gamma Doppler Phase 1": [
+      "ClassicCounter #1"
+    ],
+    "★ M9 Bayonet | Gamma Doppler Phase 2": [
+      "ClassicCounter #1"
+    ],
+    "★ M9 Bayonet | Gamma Doppler Phase 3": [
+      "ClassicCounter #1"
+    ],
+    "★ M9 Bayonet | Gamma Doppler Phase 4": [
+      "ClassicCounter #1"
+    ],
+    "★ M9 Bayonet | Hydroponic": [
+      "ClassicCounter #1"
+    ],
+    "★ M9 Bayonet | Hypnotic": [
+      "ClassicCounter #1"
+    ],
+    "★ M9 Bayonet | Icedancer": [
+      "ClassicCounter #1"
+    ],
+    "★ M9 Bayonet | Malachite": [
+      "ClassicCounter #1"
+    ],
+    "★ M9 Bayonet | Marble Fade": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ M9 Bayonet | Night": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ M9 Bayonet | Nuclear Garden": [
+      "ClassicCounter #1"
+    ],
+    "★ M9 Bayonet | Oceanic": [
+      "ClassicCounter #1"
+    ],
+    "★ M9 Bayonet | Pink DDPAT": [
+      "ClassicCounter #1"
+    ],
+    "★ M9 Bayonet | Rust Coat": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ M9 Bayonet | Safari Mesh": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ M9 Bayonet | Scorched": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ M9 Bayonet | Slaughter": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ M9 Bayonet | Stained": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ M9 Bayonet | Tiger Tooth": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ M9 Bayonet | Tuxedo": [
+      "ClassicCounter #1"
+    ],
+    "★ M9 Bayonet | Ultraviolet": [
+      "Chroma",
+      "Chroma 2",
+      "Chroma 3"
+    ],
+    "★ M9 Bayonet | Urban Masked": [
+      "Arms Deal",
+      "Arms Deal 2",
+      "Arms Deal 3",
+      "eSports 2013",
+      "eSports 2013 Winter",
+      "eSports 2014 Summer",
+      "Bravo",
+      "Phoenix",
+      "Vanguard",
+      "Winter Offensive",
+      "Revolver Case"
+    ],
+    "★ Shadow Daggers": [
+      "Shadow"
+    ],
+    "★ Shadow Daggers | Blue Steel": [
+      "Shadow"
+    ],
+    "★ Shadow Daggers | Boreal Forest": [
+      "Shadow"
+    ],
+    "★ Shadow Daggers | Case Hardened": [
+      "Shadow"
+    ],
+    "★ Shadow Daggers | Crimson Web": [
+      "Shadow"
+    ],
+    "★ Shadow Daggers | Fade": [
+      "Shadow"
+    ],
+    "★ Shadow Daggers | Forest DDPAT": [
+      "Shadow"
+    ],
+    "★ Shadow Daggers | Night": [
+      "Shadow"
+    ],
+    "★ Shadow Daggers | Safari Mesh": [
+      "Shadow"
+    ],
+    "★ Shadow Daggers | Scorched": [
+      "Shadow"
+    ],
+    "★ Shadow Daggers | Slaughter": [
+      "Shadow"
+    ],
+    "★ Shadow Daggers | Stained": [
+      "Shadow"
+    ],
+    "★ Shadow Daggers | Urban Masked": [
+      "Shadow"
+    ]
+  }
+}
