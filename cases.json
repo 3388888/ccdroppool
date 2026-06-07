@@ -1,7 +1,7 @@
 [
   {
     "id": "collection-set-weapons-iii",
-    "name": "The Arms Deal 3 Collection",
+    "name": "Arms Deal 3",
     "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_weapons_iii_png.png",
     "items": [
       {
@@ -116,7 +116,7 @@
   },
   {
     "id": "collection-set-weapons-i",
-    "name": "The Arms Deal Collection",
+    "name": "Arms Deal",
     "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_weapons_i_png.png",
     "items": [
       {
@@ -204,7 +204,7 @@
   },
   {
     "id": "collection-set-bravo-i",
-    "name": "The Bravo Collection",
+    "name": "Bravo",
     "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_bravo_i_png.png",
     "items": [
       {
@@ -346,7 +346,7 @@
   },
   {
     "id": "collection-set-community-4",
-    "name": "The Breakout Collection",
+    "name": "Breakout",
     "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_community_4_png.png",
     "items": [
       {
@@ -479,7 +479,7 @@
   },
   {
     "id": "collection-set-community-7",
-    "name": "The Chroma 2 Collection",
+    "name": "Chroma 2",
     "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_community_7_png.png",
     "items": [
       {
@@ -621,7 +621,7 @@
   },
   {
     "id": "collection-set-community-12",
-    "name": "The Chroma 3 Collection",
+    "name": "Chroma 3",
     "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_community_12_png.png",
     "items": [
       {
@@ -781,7 +781,7 @@
   },
   {
     "id": "collection-set-community-6",
-    "name": "The Chroma Collection",
+    "name": "Chroma",
     "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_community_6_png.png",
     "items": [
       {
@@ -914,7 +914,7 @@
   },
   {
     "id": "collection-set-classiccounter_1",
-    "name": "The ClassicCounter Collection #1",
+    "name": "ClassicCounter Collection #1",
     "image": "https://ollumcc.github.io/inventory/imgs/cc/collections/set_classiccounter_1.png",
     "items": [
       {
@@ -993,7 +993,7 @@
   },
   {
     "id": "collection-set-community-3",
-    "name": "The Huntsman Collection",
+    "name": "Huntsman",
     "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_community_3_png.png",
     "items": [
       {
@@ -1180,7 +1180,7 @@
   },
   {
     "id": "collection-set-community-2",
-    "name": "The Phoenix Collection",
+    "name": "Phoenix",
     "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_community_2_png.png",
     "items": [
       {
@@ -1304,7 +1304,7 @@
   },
   {
     "id": "collection-set-community-10",
-    "name": "The Revolver Case Collection",
+    "name": "Revolver Case",
     "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_community_10_png.png",
     "items": [
       {
@@ -1464,7 +1464,7 @@
   },
   {
     "id": "collection-set-community-9",
-    "name": "The Shadow Collection",
+    "name": "Shadow",
     "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_community_9_png.png",
     "items": [
       {
@@ -1615,7 +1615,7 @@
   },
   {
     "id": "collection-set-community-11",
-    "name": "The Wildfire Collection",
+    "name": "Wildfire",
     "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_community_11_png.png",
     "items": [
       {
@@ -1766,7 +1766,7 @@
   },
   {
     "id": "collection-set-esports",
-    "name": "The eSports 2013 Collection",
+    "name": "eSports 2013",
     "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_esports_png.png",
     "items": [
       {
@@ -1854,7 +1854,7 @@
   },
   {
     "id": "collection-set-esports-iii",
-    "name": "The eSports 2014 Summer Collection",
+    "name": "eSports 2014 Summer",
     "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_esports_iii_png.png",
     "items": [
       {
