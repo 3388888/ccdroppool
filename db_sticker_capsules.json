@@ -1,0 +1,2280 @@
+[
+  {
+    "id": "crate-50006",
+    "name": "CC Collab 2025 Sticker Capsule",
+    "description": "This Sticker Capsule commemorates the 2025 ClassicCounter Collaboration named ''parasite''. It includes signatures from the 9 different editors that have worked on the project.",
+    "image": "https://ollumcc.github.io/inventory/imgs/crates/capsules/crate_sticker_pack_cc_collab2025.png",
+    "items": [
+      {
+        "name": "Sticker | BSxD | CC Collab 2025",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/collab2025/sig_bsxd_large.png"
+      },
+      {
+        "name": "Sticker | JustXrexX | CC Collab 2025",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/collab2025/sig_justxrexx_large.png"
+      },
+      {
+        "name": "Sticker | RoobeN | CC Collab 2025",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/collab2025/sig_rooben_large.png"
+      },
+      {
+        "name": "Sticker | TuJluGPaM | CC Collab 2025",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/collab2025/sig_tujlugpam_large.png"
+      },
+      {
+        "name": "Sticker | Vanity | CC Collab 2025",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/collab2025/sig_vanity_large.png"
+      },
+      {
+        "name": "Sticker | akullz | CC Collab 2025",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/collab2025/sig_akullz_large.png"
+      },
+      {
+        "name": "Sticker | kuller | CC Collab 2025",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/collab2025/sig_kuller_large.png"
+      },
+      {
+        "name": "Sticker | unner | CC Collab 2025",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/collab2025/sig_unner_large.png"
+      },
+      {
+        "name": "Sticker | vallu | CC Collab 2025",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/collab2025/sig_vallu_large.png"
+      },
+      {
+        "name": "Sticker | BSxD (Foil) | CC Collab 2025",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/collab2025/sig_bsxd_foil_large.png"
+      },
+      {
+        "name": "Sticker | JustXrexX (Foil) | CC Collab 2025",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/collab2025/sig_justxrexx_foil_large.png"
+      },
+      {
+        "name": "Sticker | RoobeN (Foil) | CC Collab 2025",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/collab2025/sig_rooben_foil_large.png"
+      },
+      {
+        "name": "Sticker | TuJluGPaM (Foil) | CC Collab 2025",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/collab2025/sig_tujlugpam_foil_large.png"
+      },
+      {
+        "name": "Sticker | Vanity (Foil) | CC Collab 2025",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/collab2025/sig_vanity_foil_large.png"
+      },
+      {
+        "name": "Sticker | akullz (Foil) | CC Collab 2025",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/collab2025/sig_akullz_foil_large.png"
+      },
+      {
+        "name": "Sticker | kuller (Foil) | CC Collab 2025",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/collab2025/sig_kuller_foil_large.png"
+      },
+      {
+        "name": "Sticker | unner (Foil) | CC Collab 2025",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/collab2025/sig_unner_foil_large.png"
+      },
+      {
+        "name": "Sticker | vallu (Foil) | CC Collab 2025",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/collab2025/sig_vallu_foil_large.png"
+      },
+      {
+        "name": "Sticker | BSxD (Gold) | CC Collab 2025",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/collab2025/sig_bsxd_gold_large.png"
+      },
+      {
+        "name": "Sticker | JustXrexX (Gold) | CC Collab 2025",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/collab2025/sig_justxrexx_gold_large.png"
+      },
+      {
+        "name": "Sticker | RoobeN (Gold) | CC Collab 2025",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/collab2025/sig_rooben_gold_large.png"
+      },
+      {
+        "name": "Sticker | TuJluGPaM (Gold) | CC Collab 2025",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/collab2025/sig_tujlugpam_gold_large.png"
+      },
+      {
+        "name": "Sticker | Vanity (Gold) | CC Collab 2025",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/collab2025/sig_vanity_gold_large.png"
+      },
+      {
+        "name": "Sticker | akullz (Gold) | CC Collab 2025",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/collab2025/sig_akullz_gold_large.png"
+      },
+      {
+        "name": "Sticker | kuller (Gold) | CC Collab 2025",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/collab2025/sig_kuller_gold_large.png"
+      },
+      {
+        "name": "Sticker | unner (Gold) | CC Collab 2025",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/collab2025/sig_unner_gold_large.png"
+      },
+      {
+        "name": "Sticker | vallu (Gold) | CC Collab 2025",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/collab2025/sig_vallu_gold_large.png"
+      }
+    ]
+  },
+  {
+    "id": "crate-50002",
+    "name": "ClassicCounter Community Sticker Capsule #1",
+    "description": "This capsule contains old stickers that aren't normally available in Sticker Capsules. It was made to be able to receive them by playing on ClassicCounter servers.",
+    "image": "https://ollumcc.github.io/inventory/imgs/crates/capsules/cc_community_png.png",
+    "items": [
+      {
+        "name": "Sticker | Awp Country",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/community02/awp_country_png.png"
+      },
+      {
+        "name": "Sticker | CS On The Mind",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/community02/cs_on_the_mind_png.png"
+      },
+      {
+        "name": "Sticker | Flickshot",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/community02/flickshot_png.png"
+      },
+      {
+        "name": "Sticker | Just Trolling",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/community02/just_trolling_png.png"
+      },
+      {
+        "name": "Sticker | My Little Friend",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/community02/mylittlefriend_png.png"
+      },
+      {
+        "name": "Sticker | Nelu the Bear",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/community02/neluthebear_png.png"
+      },
+      {
+        "name": "Sticker | Pigeon Master",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/community02/pigeonmaster_png.png"
+      },
+      {
+        "name": "Sticker | Kawaii Killer CT",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/community02/kawaiikiller_png.png"
+      },
+      {
+        "name": "Sticker | Kawaii Killer Terrorist",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/community02/kawaiikiller_t_png.png"
+      },
+      {
+        "name": "Sticker | Lucky Cat (Foil)",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/community02/lucky_cat_foil_png.png"
+      },
+      {
+        "name": "Sticker | Warowl",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/community02/warowl_png.png"
+      },
+      {
+        "name": "Sticker | Drug War Veteran",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/community02/drugwarveteran_png.png"
+      }
+    ]
+  },
+  {
+    "id": "crate-50003",
+    "name": "ClassicCounter Community Sticker Capsule #2",
+    "description": "This capsule contains new custom stickers that were made for ClassicCounter. These are not original designs.",
+    "image": "https://ollumcc.github.io/inventory/imgs/crates/capsules/crate_sticker_pack_cc_2_community.png",
+    "items": [
+      {
+        "name": "Sticker | Blackbeard",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/blackbeard_large.png"
+      },
+      {
+        "name": "Sticker | ClassicCounter",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/ccsticker_large.png"
+      },
+      {
+        "name": "Sticker | Steamhappy",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/steamhappy_large.png"
+      },
+      {
+        "name": "Sticker | Wings",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/wings_large.png"
+      },
+      {
+        "name": "Sticker | e",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/e_large.png"
+      },
+      {
+        "name": "Sticker | h4rmy",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/h4rmy_large.png"
+      },
+      {
+        "name": "Sticker | Blackbeard (Holo)",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/blackbeard_holo_large.png"
+      },
+      {
+        "name": "Sticker | ClassicCounter (Holo)",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/ccsticker_holo_large.png"
+      },
+      {
+        "name": "Sticker | e (Holo)",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/e_holo_large.png"
+      },
+      {
+        "name": "Sticker | h4rmy (Holo)",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/h4rmy_holo_large.png"
+      },
+      {
+        "name": "Sticker | Trollface",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://ollumcc.github.io/inventory/imgs/cc/stickers/tf_large.png"
+      }
+    ]
+  },
+  {
+    "id": "crate-4016",
+    "name": "Community Sticker Capsule 1",
+    "description": "This capsule contains a single community-designed sticker. A portion of the proceeds is shared equally among the included creators.",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_community01_png.png",
+    "items": [
+      {
+        "name": "Sticker | Backstab",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/community01/backstab_png.png"
+      },
+      {
+        "name": "Sticker | Bomb Doge",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/community01/bomb_doge_png.png"
+      },
+      {
+        "name": "Sticker | Burn Them All",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/community01/burn_them_all_png.png"
+      },
+      {
+        "name": "Sticker | King on the Field",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/community01/black_king_png.png"
+      },
+      {
+        "name": "Sticker | Llama Cannon",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/community01/llama_cannon_png.png"
+      },
+      {
+        "name": "Sticker | My Other Awp",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/community01/other_awp_png.png"
+      },
+      {
+        "name": "Sticker | Rising Skull",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/community01/skull_png.png"
+      },
+      {
+        "name": "Sticker | Shave Master",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/community01/shavemaster_png.png"
+      },
+      {
+        "name": "Sticker | Sneaky Beaky Like",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/community01/sneaky_beaky_png.png"
+      },
+      {
+        "name": "Sticker | To B or not to B",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/community01/to_b_or_not_to_b_png.png"
+      },
+      {
+        "name": "Sticker | Winged Defuser",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/community01/winged_defuser_png.png"
+      },
+      {
+        "name": "Sticker | Harp of War (Holo)",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/community01/harp_of_war_png.png"
+      },
+      {
+        "name": "Sticker | Teamwork (Holo)",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/community01/teamwork_holo_png.png"
+      },
+      {
+        "name": "Sticker | Flammable (Foil)",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/community01/flammable_foil_png.png"
+      },
+      {
+        "name": "Sticker | Headhunter (Foil)",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/community01/headhunter_foil_png.png"
+      },
+      {
+        "name": "Sticker | Howling Dawn",
+        "rarity": "Exotic",
+        "rarity_color": "#e4ae39",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/community01/howling_dawn_png.png"
+      },
+      {
+        "name": "Sticker | New Sheriff (Foil)",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/community01/new_sheriff_foil_png.png"
+      },
+      {
+        "name": "Sticker | Swag (Foil)",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/community01/swag_foil_png.png"
+      }
+    ]
+  },
+  {
+    "id": "crate-4030",
+    "name": "DreamHack 2014 Legends (Holo/Foil)",
+    "description": "This capsule contains a single DreamHack 2014 participant Holo or Foil sticker. A portion of the proceeds is shared equally among the included organizations.",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_dhw2014_01_png.png",
+    "items": [
+      {
+        "name": "Cloud9 | DreamHack 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/dhw2014/cloud9_png.png"
+      },
+      {
+        "name": "Fnatic | DreamHack 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/dhw2014/fnatic_png.png"
+      },
+      {
+        "name": "Natus Vincere | DreamHack 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/dhw2014/navi_png.png"
+      },
+      {
+        "name": "Ninjas in Pyjamas | DreamHack 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/dhw2014/ninjasinpyjamas_png.png"
+      },
+      {
+        "name": "Team Dignitas | DreamHack 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/dhw2014/dignitas_png.png"
+      },
+      {
+        "name": "Virtus.Pro | DreamHack 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/dhw2014/virtuspro_png.png"
+      },
+      {
+        "name": "Cloud9 (Holo) | DreamHack 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/dhw2014/cloud9_holo_png.png"
+      },
+      {
+        "name": "Fnatic (Holo) | DreamHack 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/dhw2014/fnatic_holo_png.png"
+      },
+      {
+        "name": "Natus Vincere (Holo) | DreamHack 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/dhw2014/navi_holo_png.png"
+      },
+      {
+        "name": "Ninjas in Pyjamas (Holo) | DreamHack 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/dhw2014/ninjasinpyjamas_holo_png.png"
+      },
+      {
+        "name": "Team Dignitas (Holo) | DreamHack 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/dhw2014/dignitas_holo_png.png"
+      },
+      {
+        "name": "Virtus.Pro (Holo) | DreamHack 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/dhw2014/virtuspro_holo_png.png"
+      },
+      {
+        "name": "Cloud9 (Foil) | DreamHack 2014",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/dhw2014/cloud9_foil_png.png"
+      },
+      {
+        "name": "DreamHack Winter 2014 (Foil)",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/dhw2014/dreamhackwinter2014_foil_png.png"
+      },
+      {
+        "name": "Fnatic (Foil) | DreamHack 2014",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/dhw2014/fnatic_foil_png.png"
+      },
+      {
+        "name": "Natus Vincere (Foil) | DreamHack 2014",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/dhw2014/navi_foil_png.png"
+      },
+      {
+        "name": "Ninjas in Pyjamas (Foil) | DreamHack 2014",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/dhw2014/ninjasinpyjamas_foil_png.png"
+      },
+      {
+        "name": "Team Dignitas (Foil) | DreamHack 2014",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/dhw2014/dignitas_foil_png.png"
+      },
+      {
+        "name": "Virtus.Pro (Foil) | DreamHack 2014",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/dhw2014/virtuspro_foil_png.png"
+      }
+    ]
+  },
+  {
+    "id": "crate-4157",
+    "name": "DreamHack Cluj-Napoca 2015 Challengers (Foil)",
+    "description": "This capsule contains a single DreamHack Cluj-Napoca 2015 participant Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cluj2015_02_png.png",
+    "items": [
+      {
+        "name": "Cloud9 (Foil) | Cluj-Napoca 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cluj2015/c9_foil_png.png"
+      },
+      {
+        "name": "Counter Logic Gaming (Foil) | Cluj-Napoca 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cluj2015/clg_foil_png.png"
+      },
+      {
+        "name": "DreamHack (Foil) | Cluj-Napoca 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cluj2015/dhc_foil_png.png"
+      },
+      {
+        "name": "Flipsid3 Tactics (Foil) | Cluj-Napoca 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cluj2015/flip_foil_png.png"
+      },
+      {
+        "name": "Team Dignitas (Foil) | Cluj-Napoca 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cluj2015/dig_foil_png.png"
+      },
+      {
+        "name": "Team Liquid (Foil) | Cluj-Napoca 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cluj2015/liq_foil_png.png"
+      },
+      {
+        "name": "Titan (Foil) | Cluj-Napoca 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cluj2015/tit_foil_png.png"
+      },
+      {
+        "name": "Vexed Gaming (Foil) | Cluj-Napoca 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cluj2015/vex_foil_png.png"
+      },
+      {
+        "name": "mousesports (Foil) | Cluj-Napoca 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cluj2015/mss_foil_png.png"
+      }
+    ]
+  },
+  {
+    "id": "crate-4156",
+    "name": "DreamHack Cluj-Napoca 2015 Legends (Foil)",
+    "description": "This capsule contains a single DreamHack Cluj-Napoca 2015 participant Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cluj2015_01_png.png",
+    "items": [
+      {
+        "name": "DreamHack (Foil) | Cluj-Napoca 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cluj2015/dhc_foil_png.png"
+      },
+      {
+        "name": "Fnatic (Foil) | Cluj-Napoca 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cluj2015/fntc_foil_png.png"
+      },
+      {
+        "name": "G2 Esports (Foil) | Cluj-Napoca 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cluj2015/g2_foil_png.png"
+      },
+      {
+        "name": "Luminosity Gaming (Foil) | Cluj-Napoca 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cluj2015/lumi_foil_png.png"
+      },
+      {
+        "name": "Natus Vincere (Foil) | Cluj-Napoca 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cluj2015/navi_foil_png.png"
+      },
+      {
+        "name": "Ninjas in Pyjamas (Foil) | Cluj-Napoca 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cluj2015/nip_foil_png.png"
+      },
+      {
+        "name": "Team EnVyUs (Foil) | Cluj-Napoca 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cluj2015/nv_foil_png.png"
+      },
+      {
+        "name": "Team SoloMid (Foil) | Cluj-Napoca 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cluj2015/tsolo_foil_png.png"
+      },
+      {
+        "name": "Virtus.Pro (Foil) | Cluj-Napoca 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cluj2015/vp_foil_png.png"
+      }
+    ]
+  },
+  {
+    "id": "crate-4014",
+    "name": "EMS Katowice 2014 Challengers",
+    "description": "This capsule contains a single EMS One Katowice 2014 participant sticker. A portion of the proceeds is shared equally among the included organizations.",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_kat2014_01_png.png",
+    "items": [
+      {
+        "name": "3DMAX | Katowice 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/emskatowice2014/3dmax_png.png"
+      },
+      {
+        "name": "Clan-Mystik | Katowice 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/emskatowice2014/mystik_png.png"
+      },
+      {
+        "name": "Natus Vincere | Katowice 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/emskatowice2014/navi_png.png"
+      },
+      {
+        "name": "Reason Gaming | Katowice 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/emskatowice2014/reason_png.png"
+      },
+      {
+        "name": "Virtus.Pro | Katowice 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/emskatowice2014/virtuspro_png.png"
+      },
+      {
+        "name": "Vox Eminor | Katowice 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/emskatowice2014/voxeminor_png.png"
+      },
+      {
+        "name": "iBUYPOWER | Katowice 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/emskatowice2014/ibuypower_png.png"
+      },
+      {
+        "name": "mousesports | Katowice 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/emskatowice2014/mousesports_png.png"
+      },
+      {
+        "name": "3DMAX (Holo) | Katowice 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/emskatowice2014/3dmax_holo_png.png"
+      },
+      {
+        "name": "Clan-Mystik (Holo) | Katowice 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/emskatowice2014/mystik_holo_png.png"
+      },
+      {
+        "name": "Natus Vincere (Holo) | Katowice 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/emskatowice2014/navi_holo_png.png"
+      },
+      {
+        "name": "Reason Gaming (Holo) | Katowice 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/emskatowice2014/reason_holo_png.png"
+      },
+      {
+        "name": "Virtus.Pro (Holo) | Katowice 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/emskatowice2014/virtuspro_holo_png.png"
+      },
+      {
+        "name": "Vox Eminor (Holo) | Katowice 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/emskatowice2014/voxeminor_holo_png.png"
+      },
+      {
+        "name": "iBUYPOWER (Holo) | Katowice 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/emskatowice2014/ibuypower_holo_png.png"
+      },
+      {
+        "name": "mousesports (Holo) | Katowice 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/emskatowice2014/mousesports_holo_png.png"
+      },
+      {
+        "name": "ESL Wolf (Foil) | Katowice 2014",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/emskatowice2014/wolf_esl_foil_png.png"
+      }
+    ]
+  },
+  {
+    "id": "crate-4015",
+    "name": "EMS Katowice 2014 Legends",
+    "description": "This capsule contains a single EMS One Katowice 2014 participant sticker. A portion of the proceeds is shared equally among the included organizations.",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_kat2014_02_png.png",
+    "items": [
+      {
+        "name": "Fnatic | Katowice 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/emskatowice2014/fnatic_png.png"
+      },
+      {
+        "name": "HellRaisers | Katowice 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/emskatowice2014/hellraisers_png.png"
+      },
+      {
+        "name": "LGB eSports | Katowice 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/emskatowice2014/lgb_png.png"
+      },
+      {
+        "name": "Ninjas in Pyjamas | Katowice 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/emskatowice2014/ninjasinpyjamas_png.png"
+      },
+      {
+        "name": "Team Dignitas | Katowice 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/emskatowice2014/dignitas_png.png"
+      },
+      {
+        "name": "Team LDLC.com | Katowice 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/emskatowice2014/ldlc_png.png"
+      },
+      {
+        "name": "Titan | Katowice 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/emskatowice2014/titan_png.png"
+      },
+      {
+        "name": "compLexity Gaming | Katowice 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/emskatowice2014/complexity_png.png"
+      },
+      {
+        "name": "Fnatic (Holo) | Katowice 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/emskatowice2014/fnatic_holo_png.png"
+      },
+      {
+        "name": "HellRaisers (Holo) | Katowice 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/emskatowice2014/hellraisers_holo_png.png"
+      },
+      {
+        "name": "LGB eSports (Holo) | Katowice 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/emskatowice2014/lgb_holo_png.png"
+      },
+      {
+        "name": "Ninjas in Pyjamas (Holo) | Katowice 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/emskatowice2014/ninjasinpyjamas_holo_png.png"
+      },
+      {
+        "name": "Team Dignitas (Holo) | Katowice 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/emskatowice2014/dignitas_holo_png.png"
+      },
+      {
+        "name": "Team LDLC.com (Holo) | Katowice 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/emskatowice2014/ldlc_holo_png.png"
+      },
+      {
+        "name": "Titan (Holo) | Katowice 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/emskatowice2014/titan_holo_png.png"
+      },
+      {
+        "name": "compLexity Gaming (Holo) | Katowice 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/emskatowice2014/complexity_holo_png.png"
+      },
+      {
+        "name": "ESL Skull (Foil) | Katowice 2014",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/emskatowice2014/wolf_skull_esl_foil_png.png"
+      }
+    ]
+  },
+  {
+    "id": "crate-4021",
+    "name": "ESL One Cologne 2014 Challengers",
+    "description": "This capsule contains a single ESL One Cologne 2014 participant sticker. A portion of the proceeds is shared equally among the included organizations.",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cologne2014_02_png.png",
+    "items": [
+      {
+        "name": "Copenhagen Wolves | Cologne 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2014/copenhagenwolves_png.png"
+      },
+      {
+        "name": "Epsilon eSports | Cologne 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2014/epsilonesports_png.png"
+      },
+      {
+        "name": "London Conspiracy | Cologne 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2014/londonconspiracy_png.png"
+      },
+      {
+        "name": "MTS GameGod Wolf | Cologne 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2014/wolf_png.png"
+      },
+      {
+        "name": "Natus Vincere | Cologne 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2014/navi_png.png"
+      },
+      {
+        "name": "Titan | Cologne 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2014/titan_png.png"
+      },
+      {
+        "name": "Vox Eminor | Cologne 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2014/voxeminor_png.png"
+      },
+      {
+        "name": "dAT team | Cologne 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2014/datteam_png.png"
+      },
+      {
+        "name": "iBUYPOWER | Cologne 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2014/ibuypower_png.png"
+      },
+      {
+        "name": "Copenhagen Wolves (Holo) | Cologne 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2014/copenhagenwolves_holo_png.png"
+      },
+      {
+        "name": "Epsilon eSports (Holo) | Cologne 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2014/epsilonesports_holo_png.png"
+      },
+      {
+        "name": "London Conspiracy (Holo) | Cologne 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2014/londonconspiracy_holo_png.png"
+      },
+      {
+        "name": "MTS GameGod Wolf (Holo) | Cologne 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2014/wolf_holo_png.png"
+      },
+      {
+        "name": "Natus Vincere (Holo) | Cologne 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2014/navi_holo_png.png"
+      },
+      {
+        "name": "Titan (Holo) | Cologne 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2014/titan_holo_png.png"
+      },
+      {
+        "name": "Vox Eminor (Holo) | Cologne 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2014/voxeminor_holo_png.png"
+      },
+      {
+        "name": "dAT team (Holo) | Cologne 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2014/datteam_holo_png.png"
+      },
+      {
+        "name": "iBUYPOWER (Holo) | Cologne 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2014/ibuypower_holo_png.png"
+      },
+      {
+        "name": "ESL One Cologne 2014 (Red)",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2014/esl_b_png.png"
+      }
+    ]
+  },
+  {
+    "id": "crate-4020",
+    "name": "ESL One Cologne 2014 Legends",
+    "description": "This capsule contains a single ESL One Cologne 2014 participant sticker. A portion of the proceeds is shared equally among the included organizations.",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cologne2014_01_png.png",
+    "items": [
+      {
+        "name": "Cloud9 | Cologne 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2014/cloud9_png.png"
+      },
+      {
+        "name": "Fnatic | Cologne 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2014/fnatic_png.png"
+      },
+      {
+        "name": "HellRaisers | Cologne 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2014/hellraisers_png.png"
+      },
+      {
+        "name": "Ninjas in Pyjamas | Cologne 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2014/ninjasinpyjamas_png.png"
+      },
+      {
+        "name": "Team Dignitas | Cologne 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2014/teamdignitas_png.png"
+      },
+      {
+        "name": "Team LDLC.com | Cologne 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2014/teamldlc_png.png"
+      },
+      {
+        "name": "Virtus.Pro | Cologne 2014",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2014/virtuspro_png.png"
+      },
+      {
+        "name": "Cloud9 (Holo) | Cologne 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2014/cloud9_holo_png.png"
+      },
+      {
+        "name": "Fnatic (Holo) | Cologne 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2014/fnatic_holo_png.png"
+      },
+      {
+        "name": "HellRaisers (Holo) | Cologne 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2014/hellraisers_holo_png.png"
+      },
+      {
+        "name": "Ninjas in Pyjamas (Holo) | Cologne 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2014/ninjasinpyjamas_holo_png.png"
+      },
+      {
+        "name": "Team Dignitas (Holo) | Cologne 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2014/teamdignitas_holo_png.png"
+      },
+      {
+        "name": "Team LDLC.com (Holo) | Cologne 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2014/teamldlc_holo_png.png"
+      },
+      {
+        "name": "Virtus.Pro (Holo) | Cologne 2014",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2014/virtuspro_holo_png.png"
+      },
+      {
+        "name": "ESL One Cologne 2014 (Blue)",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2014/esl_a_png.png"
+      }
+    ]
+  },
+  {
+    "id": "crate-4110",
+    "name": "ESL One Cologne 2015 Challengers (Foil)",
+    "description": "This capsule contains a single ESL One Cologne 2015 participant Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_eslcologne2015_02_png.png",
+    "items": [
+      {
+        "name": "Cloud9 G2A (Foil) | Cologne 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2015/cloud9_foil_png.png"
+      },
+      {
+        "name": "Counter Logic Gaming (Foil) | Cologne 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2015/clg_foil_png.png"
+      },
+      {
+        "name": "ESL (Foil) | Cologne 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2015/esl_foil_png.png"
+      },
+      {
+        "name": "Flipsid3 Tactics (Foil) | Cologne 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2015/flipside_foil_png.png"
+      },
+      {
+        "name": "Renegades (Foil) | Cologne 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2015/renegades_foil_png.png"
+      },
+      {
+        "name": "Team Immunity (Foil) | Cologne 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2015/teamimmunity_foil_png.png"
+      },
+      {
+        "name": "Team Kinguin (Foil) | Cologne 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2015/kinguin_foil_png.png"
+      },
+      {
+        "name": "Team eBettle (Foil) | Cologne 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2015/ebettle_foil_png.png"
+      },
+      {
+        "name": "Titan (Foil) | Cologne 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2015/titan_foil_png.png"
+      }
+    ]
+  },
+  {
+    "id": "crate-4109",
+    "name": "ESL One Cologne 2015 Legends (Foil)",
+    "description": "This capsule contains a single ESL One Cologne 2015 participant Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_eslcologne2015_01_png.png",
+    "items": [
+      {
+        "name": "ESL (Foil) | Cologne 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2015/esl_foil_png.png"
+      },
+      {
+        "name": "Fnatic (Foil) | Cologne 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2015/fnatic_foil_png.png"
+      },
+      {
+        "name": "Luminosity Gaming (Foil) | Cologne 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2015/luminositygaming_foil_png.png"
+      },
+      {
+        "name": "Natus Vincere (Foil) | Cologne 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2015/navi_foil_png.png"
+      },
+      {
+        "name": "Ninjas in Pyjamas (Foil) | Cologne 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2015/ninjasinpyjamas_foil_png.png"
+      },
+      {
+        "name": "Team EnVyUs (Foil) | Cologne 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2015/envyus_foil_png.png"
+      },
+      {
+        "name": "Team SoloMid (Foil) | Cologne 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2015/solomid_foil_png.png"
+      },
+      {
+        "name": "Virtus.Pro (Foil) | Cologne 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2015/virtuspro_foil_png.png"
+      },
+      {
+        "name": "mousesports (Foil) | Cologne 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/cologne2015/mousesports_foil_png.png"
+      }
+    ]
+  },
+  {
+    "id": "crate-4087",
+    "name": "ESL One Katowice 2015 Challengers (Holo/Foil)",
+    "description": "This capsule contains a single ESL One Katowice 2015 participant Holo or Foil sticker. A portion of the proceeds is shared equally among the included organizations.",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_eslkatowice2015_02_png.png",
+    "items": [
+      {
+        "name": "3DMAX (Holo) | Katowice 2015",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/eslkatowice2015/3dmax_holo_png.png"
+      },
+      {
+        "name": "Cloud9 G2A (Holo) | Katowice 2015",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/eslkatowice2015/cloud9_holo_png.png"
+      },
+      {
+        "name": "Counter Logic Gaming (Holo) | Katowice 2015",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/eslkatowice2015/counterlogic_holo_png.png"
+      },
+      {
+        "name": "Flipsid3 Tactics (Holo) | Katowice 2015",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/eslkatowice2015/flipsid3_holo_png.png"
+      },
+      {
+        "name": "Keyd Stars (Holo) | Katowice 2015",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/eslkatowice2015/keyd_holo_png.png"
+      },
+      {
+        "name": "LGB eSports (Holo) | Katowice 2015",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/eslkatowice2015/lgb_holo_png.png"
+      },
+      {
+        "name": "Titan (Holo) | Katowice 2015",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/eslkatowice2015/titan_holo_png.png"
+      },
+      {
+        "name": "Vox Eminor (Holo) | Katowice 2015",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/eslkatowice2015/voxeminor_holo_png.png"
+      },
+      {
+        "name": "3DMAX (Foil) | Katowice 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/eslkatowice2015/3dmax_foil_png.png"
+      },
+      {
+        "name": "Cloud9 G2A (Foil) | Katowice 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/eslkatowice2015/cloud9_foil_png.png"
+      },
+      {
+        "name": "Counter Logic Gaming (Foil) | Katowice 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/eslkatowice2015/counterlogic_foil_png.png"
+      },
+      {
+        "name": "ESL One (Foil) | Katowice 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/eslkatowice2015/esl_a_foil_png.png"
+      },
+      {
+        "name": "Flipsid3 Tactics (Foil) | Katowice 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/eslkatowice2015/flipsid3_foil_png.png"
+      },
+      {
+        "name": "Keyd Stars (Foil) | Katowice 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/eslkatowice2015/keyd_foil_png.png"
+      },
+      {
+        "name": "LGB eSports (Foil) | Katowice 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/eslkatowice2015/lgb_foil_png.png"
+      },
+      {
+        "name": "Titan (Foil) | Katowice 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/eslkatowice2015/titan_foil_png.png"
+      },
+      {
+        "name": "Vox Eminor (Foil) | Katowice 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/eslkatowice2015/voxeminor_foil_png.png"
+      }
+    ]
+  },
+  {
+    "id": "crate-4086",
+    "name": "ESL One Katowice 2015 Legends (Holo/Foil)",
+    "description": "This capsule contains a single ESL One Katowice 2015 participant Holo or Foil sticker. A portion of the proceeds is shared equally among the included organizations.",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_eslkatowice2015_01_png.png",
+    "items": [
+      {
+        "name": "Fnatic (Holo) | Katowice 2015",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/eslkatowice2015/fnatic_holo_png.png"
+      },
+      {
+        "name": "HellRaisers (Holo) | Katowice 2015",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/eslkatowice2015/hellraisers_holo_png.png"
+      },
+      {
+        "name": "Natus Vincere (Holo) | Katowice 2015",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/eslkatowice2015/navi_holo_png.png"
+      },
+      {
+        "name": "Ninjas in Pyjamas (Holo) | Katowice 2015",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/eslkatowice2015/ninjasinpyjamas_holo_png.png"
+      },
+      {
+        "name": "PENTA Sports (Holo) | Katowice 2015",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/eslkatowice2015/pentasports_holo_png.png"
+      },
+      {
+        "name": "TSM Kinguin (Holo) | Katowice 2015",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/eslkatowice2015/teamsolomid_holo_png.png"
+      },
+      {
+        "name": "Team EnVyUs (Holo) | Katowice 2015",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/eslkatowice2015/teamenvyus_holo_png.png"
+      },
+      {
+        "name": "Virtus.pro (Holo) | Katowice 2015",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/eslkatowice2015/virtuspro_holo_png.png"
+      },
+      {
+        "name": "ESL One (Foil) | Katowice 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/eslkatowice2015/esl_a_foil_png.png"
+      },
+      {
+        "name": "Fnatic (Foil) | Katowice 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/eslkatowice2015/fnatic_foil_png.png"
+      },
+      {
+        "name": "HellRaisers (Foil) | Katowice 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/eslkatowice2015/hellraisers_foil_png.png"
+      },
+      {
+        "name": "Natus Vincere (Foil) | Katowice 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/eslkatowice2015/navi_foil_png.png"
+      },
+      {
+        "name": "Ninjas in Pyjamas (Foil) | Katowice 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/eslkatowice2015/ninjasinpyjamas_foil_png.png"
+      },
+      {
+        "name": "PENTA Sports (Foil) | Katowice 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/eslkatowice2015/pentasports_foil_png.png"
+      },
+      {
+        "name": "TSM Kinguin (Foil) | Katowice 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/eslkatowice2015/teamsolomid_foil_png.png"
+      },
+      {
+        "name": "Team EnVyUs (Foil) | Katowice 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/eslkatowice2015/teamenvyus_foil_png.png"
+      },
+      {
+        "name": "Virtus.pro (Foil) | Katowice 2015",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/eslkatowice2015/virtuspro_foil_png.png"
+      }
+    ]
+  },
+  {
+    "id": "crate-4090",
+    "name": "Enfu Sticker Capsule",
+    "description": "This capsule contains a variety of stickers from the community artist ENFU.",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_enfu_capsule_png.png",
+    "items": [
+      {
+        "name": "Sticker | Bombsquad",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/enfu_capsule/enfu_bombsquad_png.png"
+      },
+      {
+        "name": "Sticker | Chabo",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/enfu_capsule/chicken_png.png"
+      },
+      {
+        "name": "Sticker | Salute!",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/enfu_capsule/soldier_png.png"
+      },
+      {
+        "name": "Sticker | Silent Ninja",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/enfu_capsule/ninja_png.png"
+      },
+      {
+        "name": "Sticker | Skull Lil Boney",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/enfu_capsule/skullfulilboney_png.png"
+      },
+      {
+        "name": "Sticker | Skull Troop",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/enfu_capsule/skullfutrooop_png.png"
+      },
+      {
+        "name": "Sticker | Skulltorgeist",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/enfu_capsule/skullfuskulltorgeist_png.png"
+      },
+      {
+        "name": "Sticker | The Guru",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/enfu_capsule/guru_png.png"
+      },
+      {
+        "name": "Sticker | The Samurai",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/enfu_capsule/samurai_png.png"
+      },
+      {
+        "name": "Sticker | The Spartan",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/enfu_capsule/spartan_png.png"
+      },
+      {
+        "name": "Sticker | The Zombie",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/enfu_capsule/zombie_png.png"
+      },
+      {
+        "name": "Sticker | Unicorn",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/enfu_capsule/unicorn_png.png"
+      },
+      {
+        "name": "Sticker | Unicorn (Holo)",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/enfu_capsule/unicorn_holo_png.png"
+      },
+      {
+        "name": "Sticker | Bombsquad (Foil)",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/enfu_capsule/enfu_bombsquad_foil_png.png"
+      },
+      {
+        "name": "Sticker | Silent Ninja (Foil)",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/enfu_capsule/ninja_foil_png.png"
+      }
+    ]
+  },
+  {
+    "id": "crate-4206",
+    "name": "MLG Columbus 2016 Challengers (Holo/Foil)",
+    "description": "This capsule contains a single MLG Columbus 2016 participant Holo or Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_columbus2016_02_png.png",
+    "items": [
+      {
+        "name": "Cloud9 (Holo) | MLG Columbus 2016",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/c9_holo_png.png"
+      },
+      {
+        "name": "Counter Logic Gaming (Holo) | MLG Columbus 2016",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/clg_holo_png.png"
+      },
+      {
+        "name": "Flipsid3 Tactics (Holo) | MLG Columbus 2016",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/flip_holo_png.png"
+      },
+      {
+        "name": "G2 Esports (Holo) | MLG Columbus 2016",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/g2_holo_png.png"
+      },
+      {
+        "name": "Gambit Gaming (Holo) | MLG Columbus 2016",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/gamb_holo_png.png"
+      },
+      {
+        "name": "MLG (Holo) | MLG Columbus 2016",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/mlg_holo_png.png"
+      },
+      {
+        "name": "Splyce (Holo) | MLG Columbus 2016",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/splc_holo_png.png"
+      },
+      {
+        "name": "Team Liquid (Holo) | MLG Columbus 2016",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/liq_holo_png.png"
+      },
+      {
+        "name": "mousesports (Holo) | MLG Columbus 2016",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/mss_holo_png.png"
+      },
+      {
+        "name": "Cloud9 (Foil) | MLG Columbus 2016",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/c9_foil_png.png"
+      },
+      {
+        "name": "Counter Logic Gaming (Foil) | MLG Columbus 2016",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/clg_foil_png.png"
+      },
+      {
+        "name": "Flipsid3 Tactics (Foil) | MLG Columbus 2016",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/flip_foil_png.png"
+      },
+      {
+        "name": "G2 Esports (Foil) | MLG Columbus 2016",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/g2_foil_png.png"
+      },
+      {
+        "name": "Gambit Gaming (Foil) | MLG Columbus 2016",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/gamb_foil_png.png"
+      },
+      {
+        "name": "MLG (Foil) | MLG Columbus 2016",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/mlg_foil_png.png"
+      },
+      {
+        "name": "Splyce (Foil) | MLG Columbus 2016",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/splc_foil_png.png"
+      },
+      {
+        "name": "Team Liquid (Foil) | MLG Columbus 2016",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/liq_foil_png.png"
+      },
+      {
+        "name": "mousesports (Foil) | MLG Columbus 2016",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/mss_foil_png.png"
+      }
+    ]
+  },
+  {
+    "id": "crate-4205",
+    "name": "MLG Columbus 2016 Legends (Holo/Foil)",
+    "description": "This capsule contains a single MLG Columbus 2016 participant Holo or Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_columbus2016_01_png.png",
+    "items": [
+      {
+        "name": "Astralis (Holo) | MLG Columbus 2016",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/astr_holo_png.png"
+      },
+      {
+        "name": "FaZe Clan (Holo) | MLG Columbus 2016",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/faze_holo_png.png"
+      },
+      {
+        "name": "Fnatic (Holo) | MLG Columbus 2016",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/fntc_holo_png.png"
+      },
+      {
+        "name": "Luminosity Gaming (Holo) | MLG Columbus 2016",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/lumi_holo_png.png"
+      },
+      {
+        "name": "MLG (Holo) | MLG Columbus 2016",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/mlg_holo_png.png"
+      },
+      {
+        "name": "Natus Vincere (Holo) | MLG Columbus 2016",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/navi_holo_png.png"
+      },
+      {
+        "name": "Ninjas in Pyjamas (Holo) | MLG Columbus 2016",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/nip_holo_png.png"
+      },
+      {
+        "name": "Team EnVyUs (Holo) | MLG Columbus 2016",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/nv_holo_png.png"
+      },
+      {
+        "name": "Virtus.Pro (Holo) | MLG Columbus 2016",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/vp_holo_png.png"
+      },
+      {
+        "name": "Astralis (Foil) | MLG Columbus 2016",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/astr_foil_png.png"
+      },
+      {
+        "name": "FaZe Clan (Foil) | MLG Columbus 2016",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/faze_foil_png.png"
+      },
+      {
+        "name": "Fnatic (Foil) | MLG Columbus 2016",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/fntc_foil_png.png"
+      },
+      {
+        "name": "Luminosity Gaming (Foil) | MLG Columbus 2016",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/lumi_foil_png.png"
+      },
+      {
+        "name": "MLG (Foil) | MLG Columbus 2016",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/mlg_foil_png.png"
+      },
+      {
+        "name": "Natus Vincere (Foil) | MLG Columbus 2016",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/navi_foil_png.png"
+      },
+      {
+        "name": "Ninjas in Pyjamas (Foil) | MLG Columbus 2016",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/nip_foil_png.png"
+      },
+      {
+        "name": "Team EnVyUs (Foil) | MLG Columbus 2016",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/nv_foil_png.png"
+      },
+      {
+        "name": "Virtus.Pro (Foil) | MLG Columbus 2016",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/columbus2016/vp_foil_png.png"
+      }
+    ]
+  },
+  {
+    "id": "crate-50008",
+    "name": "NOVAGANG Capsule",
+    "description": null,
+    "image": "https://raw.githubusercontent.com/edd13s/ClassicCounter-Item-Images/refs/heads/main/stickers/ng_capsule.png",
+    "items": [
+      {
+        "name": "Sticker | Angel | NOVAGANG Collection",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/edd13s/ClassicCounter-Item-Images/refs/heads/main/stickers/imp-white_model.png"
+      },
+      {
+        "name": "Sticker | Cult | NOVAGANG Collection",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/edd13s/ClassicCounter-Item-Images/refs/heads/main/stickers/cult_model.png"
+      },
+      {
+        "name": "Sticker | Devil | NOVAGANG Collection",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/edd13s/ClassicCounter-Item-Images/refs/heads/main/stickers/imp-red_model.png"
+      },
+      {
+        "name": "Sticker | Divinity | NOVAGANG Collection",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/edd13s/ClassicCounter-Item-Images/refs/heads/main/stickers/divinity_paper_model.png"
+      },
+      {
+        "name": "Sticker | I ☠ NG | NOVAGANG Collection",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/edd13s/ClassicCounter-Item-Images/refs/heads/main/stickers/iloveng_paper_model.png"
+      },
+      {
+        "name": "Sticker | Imp Skull | NOVAGANG Collection",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/edd13s/ClassicCounter-Item-Images/refs/heads/main/stickers/ngskullwhite_model.png"
+      },
+      {
+        "name": "Sticker | Imp | NOVAGANG Collection",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/edd13s/ClassicCounter-Item-Images/refs/heads/main/stickers/imp_paper_model.png"
+      },
+      {
+        "name": "Sticker | Divinity (Holo) | NOVAGANG Collection",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/edd13s/ClassicCounter-Item-Images/refs/heads/main/stickers/divinity_holo_model.png"
+      },
+      {
+        "name": "Sticker | H.T.N.G. Skull (Holo) | NOVAGANG Collection",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/edd13s/ClassicCounter-Item-Images/refs/heads/main/stickers/placeholder.png"
+      },
+      {
+        "name": "Sticker | I ☠ NG (Holo) | NOVAGANG Collection",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/edd13s/ClassicCounter-Item-Images/refs/heads/main/stickers/iloveng_holo_model.png"
+      },
+      {
+        "name": "Sticker | Plushies (Holo) | NOVAGANG Collection",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/edd13s/ClassicCounter-Item-Images/refs/heads/main/stickers/plushies_holo_model.png"
+      },
+      {
+        "name": "Sticker | Judgement Day (Foil) | NOVAGANG Collection",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/edd13s/ClassicCounter-Item-Images/refs/heads/main/stickers/judgement-day_foil_model.png"
+      },
+      {
+        "name": "Sticker | Judgement Day CD (Foil) | NOVAGANG Collection",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/edd13s/ClassicCounter-Item-Images/refs/heads/main/stickers/cd_foil_model.png"
+      },
+      {
+        "name": "Sticker | NOVAGANG (Foil) | NOVAGANG Collection",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/edd13s/ClassicCounter-Item-Images/refs/heads/main/stickers/visuals_foil_model.png"
+      },
+      {
+        "name": "Sticker | ngngng.ng (Foil) | NOVAGANG Collection",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/edd13s/ClassicCounter-Item-Images/refs/heads/main/stickers/ngngng_foil_model.png"
+      }
+    ]
+  },
+  {
+    "id": "crate-4183",
+    "name": "Pinups Capsule",
+    "description": "This capsule contains a variety of stickers from the community artist ninjasia.",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_pinups_capsule_png.png",
+    "items": [
+      {
+        "name": "Sticker | Ivette",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/pinups_capsule/ivette_png.png"
+      },
+      {
+        "name": "Sticker | Kimberly",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/pinups_capsule/kimberly_png.png"
+      },
+      {
+        "name": "Sticker | Martha",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/pinups_capsule/martha_png.png"
+      },
+      {
+        "name": "Sticker | Merietta",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/pinups_capsule/merietta_png.png"
+      },
+      {
+        "name": "Sticker | Sherry",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/pinups_capsule/scherry_png.png"
+      },
+      {
+        "name": "Sticker | Tamara",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/pinups_capsule/tamara_png.png"
+      },
+      {
+        "name": "Sticker | Ivette (Holo)",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/pinups_capsule/ivette_holo_png.png"
+      },
+      {
+        "name": "Sticker | Kimberly (Holo)",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/pinups_capsule/kimberly_holo_png.png"
+      },
+      {
+        "name": "Sticker | Martha (Holo)",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/pinups_capsule/martha_holo_png.png"
+      },
+      {
+        "name": "Sticker | Merietta (Holo)",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/pinups_capsule/merietta_holo_png.png"
+      },
+      {
+        "name": "Sticker | Sherry (Holo)",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/pinups_capsule/scherry_holo_png.png"
+      },
+      {
+        "name": "Sticker | Tamara (Holo)",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/pinups_capsule/tamara_holo_png.png"
+      }
+    ]
+  },
+  {
+    "id": "crate-4184",
+    "name": "Slid3 Capsule",
+    "description": "This capsule contains a variety of stickers from the community artist Slid3.",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_slid3_capsule_png.png",
+    "items": [
+      {
+        "name": "Sticker | Boom",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/slid3_capsule/boom_png.png"
+      },
+      {
+        "name": "Sticker | Countdown",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/slid3_capsule/countdown_png.png"
+      },
+      {
+        "name": "Sticker | Don't Worry",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/slid3_capsule/dontworryigotcha_png.png"
+      },
+      {
+        "name": "Sticker | Hard Cluck Life",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/slid3_capsule/hardclucklife_png.png"
+      },
+      {
+        "name": "Sticker | Move It",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/slid3_capsule/moveit_png.png"
+      },
+      {
+        "name": "Sticker | Boom (Holo)",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/slid3_capsule/boom_holo_png.png"
+      },
+      {
+        "name": "Sticker | Countdown (Holo)",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/slid3_capsule/countdown_holo_png.png"
+      },
+      {
+        "name": "Sticker | Don't Worry (Holo)",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/slid3_capsule/dontworryigotcha_holo_png.png"
+      },
+      {
+        "name": "Sticker | Hard Cluck Life (Holo)",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/slid3_capsule/hardclucklife_holo_png.png"
+      },
+      {
+        "name": "Sticker | Move It (Holo)",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/slid3_capsule/moveit_holo_png.png"
+      },
+      {
+        "name": "Sticker | Boom (Foil)",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/slid3_capsule/boom_foil_png.png"
+      },
+      {
+        "name": "Sticker | Countdown (Foil)",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/slid3_capsule/countdown_foil_png.png"
+      },
+      {
+        "name": "Sticker | Don't Worry (Foil)",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/slid3_capsule/dontworryigotcha_foil_png.png"
+      },
+      {
+        "name": "Sticker | Hard Cluck Life (Foil)",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/slid3_capsule/hardclucklife_foil_png.png"
+      },
+      {
+        "name": "Sticker | Move It (Foil)",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/slid3_capsule/moveit_foil_png.png"
+      }
+    ]
+  },
+  {
+    "id": "crate-4007",
+    "name": "Sticker Capsule",
+    "description": null,
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack01_png.png",
+    "items": [
+      {
+        "name": "Sticker | Aces High",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/standard/aces_high_png.png"
+      },
+      {
+        "name": "Sticker | Black Dog",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/standard/dispatch_png.png"
+      },
+      {
+        "name": "Sticker | Cerberus",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/standard/guarding_hell_png.png"
+      },
+      {
+        "name": "Sticker | Easy Peasy",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/standard/lemon_png.png"
+      },
+      {
+        "name": "Sticker | Fearsome",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/standard/fearsome_png.png"
+      },
+      {
+        "name": "Sticker | I Conquered",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/standard/conquered_png.png"
+      },
+      {
+        "name": "Sticker | Luck Skill",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/standard/luck_png.png"
+      },
+      {
+        "name": "Sticker | Lucky 13",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/standard/thirteen_png.png"
+      },
+      {
+        "name": "Sticker | Seek & Destroy",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/standard/destroy_png.png"
+      },
+      {
+        "name": "Sticker | Vigilance",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/standard/vigilance_png.png"
+      },
+      {
+        "name": "Sticker | Aces High (Holo)",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/standard/aces_high_holo_png.png"
+      },
+      {
+        "name": "Sticker | Fearsome (Holo)",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/standard/fearsome_holo_png.png"
+      },
+      {
+        "name": "Sticker | Vigilance (Holo)",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/standard/vigilance_holo_png.png"
+      },
+      {
+        "name": "Sticker | Luck Skill (Foil)",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/standard/luck_foil_png.png"
+      },
+      {
+        "name": "Sticker | Lucky 13 (Foil)",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/standard/thirteen_foil_png.png"
+      }
+    ]
+  },
+  {
+    "id": "crate-4012",
+    "name": "Sticker Capsule 2",
+    "description": null,
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack02_png.png",
+    "items": [
+      {
+        "name": "Sticker | Banana",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/stickers2/banana_png.png"
+      },
+      {
+        "name": "Sticker | Bomb Code",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/stickers2/bomb_code_png.png"
+      },
+      {
+        "name": "Sticker | Chicken Lover",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/stickers2/chicken_lover_png.png"
+      },
+      {
+        "name": "Sticker | Good Game",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/stickers2/goodgame_png.png"
+      },
+      {
+        "name": "Sticker | Good Luck",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/stickers2/goodluck_png.png"
+      },
+      {
+        "name": "Sticker | Have Fun",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/stickers2/havefun_png.png"
+      },
+      {
+        "name": "Sticker | Let's Roll-oll",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/stickers2/lets_roll_oll_png.png"
+      },
+      {
+        "name": "Sticker | Metal",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/stickers2/metal_png.png"
+      },
+      {
+        "name": "Sticker | Nice Shot",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/stickers2/nice_shot_png.png"
+      },
+      {
+        "name": "Sticker | Welcome to the Clutch",
+        "rarity": "High Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/stickers2/welcome_clutch_png.png"
+      },
+      {
+        "name": "Sticker | Bash (Holo)",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/stickers2/bash_holo_png.png"
+      },
+      {
+        "name": "Sticker | Bish (Holo)",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/stickers2/bish_holo_png.png"
+      },
+      {
+        "name": "Sticker | Bosh (Holo)",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/stickers2/bosh_holo_png.png"
+      },
+      {
+        "name": "Sticker | Let's Roll-oll (Holo)",
+        "rarity": "Remarkable",
+        "rarity_color": "#8847ff",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/stickers2/lets_roll_oll_holo_png.png"
+      },
+      {
+        "name": "Sticker | Crown (Foil)",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/stickers2/crown_foil_png.png"
+      },
+      {
+        "name": "Sticker | Stupid Banana (Foil)",
+        "rarity": "Exotic",
+        "rarity_color": "#d32ce6",
+        "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/stickers/stickers2/stupid_banana_foil_png.png"
+      }
+    ]
+  }
+]

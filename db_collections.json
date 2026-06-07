@@ -1,0 +1,2746 @@
+[
+  {
+    "id": "collection-set-bravo-ii",
+    "name": "Alpha",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_bravo_ii_png.png",
+    "items": [
+      {
+        "name": "FAMAS | Spitfire",
+        "weapon": "FAMAS",
+        "rarity": "Restricted",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_famas_sp_spitfire_famas_bravo_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "SCAR-20 | Emerald",
+        "weapon": "SCAR-20",
+        "rarity": "Restricted",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_scar20_an_emerald_bravo_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "AUG | Anodized Navy",
+        "weapon": "AUG",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_aug_an_navy_bravo_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "MAG-7 | Hazard",
+        "weapon": "MAG-7",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mag7_sp_hazard_bravo_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "PP-Bizon | Rust Coat",
+        "weapon": "PP-Bizon",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bizon_aq_steel_bravo_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "Glock-18 | Sand Dune",
+        "weapon": "Glock-18",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_glock_so_sand_bravo_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Negev | Palm",
+        "weapon": "Negev",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_negev_sp_palm_bravo_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "P250 | Facets",
+        "weapon": "P250",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_p250_hy_crumple_dark_bravo_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "SSG 08 | Mayan Dreams",
+        "weapon": "SSG 08",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_ssg08_hy_mayan_dreams_bravo_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Sawed-Off | Mosaico",
+        "weapon": "Sawed-Off",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_sawedoff_hy_ali_tile_bravo_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Five-SeveN | Anodized Gunmetal",
+        "weapon": "Five-SeveN",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_fiveseven_an_gunmetal_bravo_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "M249 | Jungle DDPAT",
+        "weapon": "M249",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_m249_hy_ddpat_jungle_bravo_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "MP7 | Groundwater",
+        "weapon": "MP7",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mp7_so_olive_bravo_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "MP9 | Dry Season",
+        "weapon": "MP9",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mp9_sp_tape_dots_bravo_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Tec-9 | Tornado",
+        "weapon": "Tec-9",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_tec9_so_tornado_bravo_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "XM1014 | Jungle",
+        "weapon": "XM1014",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_xm1014_so_jungle_bravo_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      }
+    ]
+  },
+  {
+    "id": "collection-set-assault",
+    "name": "Assault",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_assault_png.png",
+    "items": [
+      {
+        "name": "Glock-18 | Fade",
+        "weapon": "Glock-18",
+        "rarity": "Restricted",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_glock_aa_fade_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "MP9 | Bulldozer",
+        "weapon": "MP9",
+        "rarity": "Restricted",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mp9_so_yellow_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "AUG | Hot Rod",
+        "weapon": "AUG",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_aug_an_red_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "Negev | Anodized Navy",
+        "weapon": "Negev",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_negev_an_navy_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "Five-SeveN | Candy Apple",
+        "weapon": "Five-SeveN",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_fiveseven_so_red_light_large.png",
+        "min_float": 0,
+        "max_float": 0.3
+      },
+      {
+        "name": "SG 553 | Tornado",
+        "weapon": "SG 553",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_sg556_so_tornado_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "UMP-45 | Caramel",
+        "weapon": "UMP-45",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_ump45_so_caramel_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      }
+    ]
+  },
+  {
+    "id": "collection-set-aztec",
+    "name": "Aztec",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_aztec_png.png",
+    "items": [
+      {
+        "name": "Tec-9 | Ossified",
+        "weapon": "Tec-9",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_tec9_am_ossify_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "AK-47 | Jungle Spray",
+        "weapon": "AK-47",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_ak47_sp_spray_jungle_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "M4A4 | Jungle Tiger",
+        "weapon": "M4A4",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_m4a1_hy_v_tiger_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Five-SeveN | Jungle",
+        "weapon": "Five-SeveN",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_fiveseven_so_jungle_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Nova | Forest Leaves",
+        "weapon": "Nova",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_nova_sp_leaves_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "SSG 08 | Lichen Dashed",
+        "weapon": "SSG 08",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_ssg08_sp_short_tape_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      }
+    ]
+  },
+  {
+    "id": "collection-set-baggage",
+    "name": "Baggage",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_baggage_png.png",
+    "items": [
+      {
+        "name": "AK-47 | Jet Set",
+        "weapon": "AK-47",
+        "rarity": "Classified",
+        "rarity_color": "#d32ce6",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_ak47_cu_well_traveled_ak47_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "AK-47 | First Class",
+        "weapon": "AK-47",
+        "rarity": "Restricted",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_ak47_cu_green_leather_ak47_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "Desert Eagle | Pilot",
+        "weapon": "Desert Eagle",
+        "rarity": "Restricted",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_deagle_aq_pilot_deagle_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "Sawed-Off | First Class",
+        "weapon": "Sawed-Off",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_sawedoff_cu_green_leather_sawedoff_light_large.png",
+        "min_float": 0,
+        "max_float": 0.5
+      },
+      {
+        "name": "USP-S | Business Class",
+        "weapon": "USP-S",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_usp_silencer_cu_luggage_usp-s_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "XM1014 | Red Leather",
+        "weapon": "XM1014",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_xm1014_cu_leather_xm1014_light_large.png",
+        "min_float": 0,
+        "max_float": 0.56
+      },
+      {
+        "name": "MAC-10 | Commuter",
+        "weapon": "MAC-10",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mac10_cu_luggage_mac10_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "P2000 | Coach Class",
+        "weapon": "P2000",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_hkp2000_cu_luggage_p2000_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "P90 | Leather",
+        "weapon": "P90",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_p90_cu_brown_leather_p90_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "SG 553 | Traveler",
+        "weapon": "SG 553",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_sg556_cu_luggage_sg553_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "CZ75-Auto | Green Plaid",
+        "weapon": "CZ75-Auto",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_cz75a_hy_plaid2_light_large.png",
+        "min_float": 0,
+        "max_float": 0.58
+      },
+      {
+        "name": "G3SG1 | Contractor",
+        "weapon": "G3SG1",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_g3sg1_so_pmc_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "MP7 | Olive Plaid",
+        "weapon": "MP7",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mp7_hy_plaid1_light_large.png",
+        "min_float": 0,
+        "max_float": 0.58
+      },
+      {
+        "name": "MP9 | Green Plaid",
+        "weapon": "MP9",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mp9_hy_plaid2_light_large.png",
+        "min_float": 0,
+        "max_float": 0.58
+      },
+      {
+        "name": "SSG 08 | Sand Dune",
+        "weapon": "SSG 08",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_ssg08_so_sand_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      }
+    ]
+  },
+  {
+    "id": "collection-set-bank",
+    "name": "Bank",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_bank_png.png",
+    "items": [
+      {
+        "name": "P250 | Franklin",
+        "weapon": "P250",
+        "rarity": "Classified",
+        "rarity_color": "#d32ce6",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_p250_cu_money_light_large.png",
+        "min_float": 0,
+        "max_float": 0.4
+      },
+      {
+        "name": "AK-47 | Emerald Pinstripe",
+        "weapon": "AK-47",
+        "rarity": "Restricted",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_ak47_cu_pinstripe_ak47_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "CZ75-Auto | Tuxedo",
+        "weapon": "CZ75-Auto",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_cz75a_so_orca_light_large.png",
+        "min_float": 0,
+        "max_float": 0.8
+      },
+      {
+        "name": "Desert Eagle | Meteorite",
+        "weapon": "Desert Eagle",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_deagle_am_crystallized_dark_light_large.png",
+        "min_float": 0,
+        "max_float": 0.18
+      },
+      {
+        "name": "Galil AR | Tuxedo",
+        "weapon": "Galil AR",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_galilar_so_orca_light_large.png",
+        "min_float": 0,
+        "max_float": 0.8
+      },
+      {
+        "name": "G3SG1 | Green Apple",
+        "weapon": "G3SG1",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_g3sg1_so_green_light_large.png",
+        "min_float": 0,
+        "max_float": 0.3
+      },
+      {
+        "name": "Glock-18 | Death Rattle",
+        "weapon": "Glock-18",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_glock_hy_nerodia_light_large.png",
+        "min_float": 0.08,
+        "max_float": 0.5
+      },
+      {
+        "name": "MAC-10 | Silver",
+        "weapon": "MAC-10",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mac10_an_silver_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "Nova | Caged Steel",
+        "weapon": "Nova",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_nova_am_oval_hex_light_large.png",
+        "min_float": 0,
+        "max_float": 0.2
+      },
+      {
+        "name": "UMP-45 | Carbon Fiber",
+        "weapon": "UMP-45",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_ump45_am_carbon_fiber_light_large.png",
+        "min_float": 0,
+        "max_float": 0.12
+      },
+      {
+        "name": "MP7 | Forest DDPAT",
+        "weapon": "MP7",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mp7_hy_ddpat_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Negev | Army Sheen",
+        "weapon": "Negev",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_negev_am_army_shine_light_large.png",
+        "min_float": 0,
+        "max_float": 0.3
+      },
+      {
+        "name": "R8 Revolver | Bone Mask",
+        "weapon": "R8 Revolver",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_revolver_sp_tape_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "SG 553 | Army Sheen",
+        "weapon": "SG 553",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_sg556_am_army_shine_light_large.png",
+        "min_float": 0,
+        "max_float": 0.3
+      },
+      {
+        "name": "Sawed-Off | Forest DDPAT",
+        "weapon": "Sawed-Off",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_sawedoff_hy_ddpat_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Tec-9 | Urban DDPAT",
+        "weapon": "Tec-9",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_tec9_hy_ddpat_urb_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      }
+    ]
+  },
+  {
+    "id": "collection-set-cache",
+    "name": "Cache",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_cache_png.png",
+    "items": [
+      {
+        "name": "FAMAS | Styx",
+        "weapon": "FAMAS",
+        "rarity": "Restricted",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_famas_am_nuclear_skulls2_famas_light_large.png",
+        "min_float": 0,
+        "max_float": 0.6
+      },
+      {
+        "name": "Galil AR | Cerberus",
+        "weapon": "Galil AR",
+        "rarity": "Restricted",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_galilar_cu_cerbrus_galil_light_large.png",
+        "min_float": 0,
+        "max_float": 0.9
+      },
+      {
+        "name": "Glock-18 | Reactor",
+        "weapon": "Glock-18",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_glock_am_nuclear_pattern1_glock_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "MAC-10 | Nuclear Garden",
+        "weapon": "MAC-10",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mac10_am_nuclear_skulls3_mac10_light_large.png",
+        "min_float": 0,
+        "max_float": 0.7
+      },
+      {
+        "name": "MP9 | Setting Sun",
+        "weapon": "MP9",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mp9_hy_nuclear_pattern2_mp9_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "Tec-9 | Toxic",
+        "weapon": "Tec-9",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_tec9_hy_nuclear_skulls5_tec9_light_large.png",
+        "min_float": 0,
+        "max_float": 0.7
+      },
+      {
+        "name": "XM1014 | Bone Machine",
+        "weapon": "XM1014",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_xm1014_am_nuclear_skulls1_xm1014_light_large.png",
+        "min_float": 0,
+        "max_float": 0.6
+      },
+      {
+        "name": "AUG | Radiation Hazard",
+        "weapon": "AUG",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_aug_sp_nukestripe_orange_aug_light_large.png",
+        "min_float": 0,
+        "max_float": 0.55
+      },
+      {
+        "name": "Five-SeveN | Hot Shot",
+        "weapon": "Five-SeveN",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_fiveseven_so_grey_nuclear_orange_five_seven_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "Negev | Nuclear Waste",
+        "weapon": "Negev",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_negev_sp_nuclear_pattern3_negev_light_large.png",
+        "min_float": 0,
+        "max_float": 0.4
+      },
+      {
+        "name": "P250 | Contamination",
+        "weapon": "P250",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_p250_hy_nuclear_skulls4_p250_light_large.png",
+        "min_float": 0,
+        "max_float": 0.83
+      },
+      {
+        "name": "PP-Bizon | Chemical Green",
+        "weapon": "PP-Bizon",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bizon_so_grey_nuclear_green_bizon_light_large.png",
+        "min_float": 0,
+        "max_float": 0.9
+      },
+      {
+        "name": "SG 553 | Fallout Warning",
+        "weapon": "SG 553",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_sg556_sp_nukestripe_maroon_sg553_light_large.png",
+        "min_float": 0,
+        "max_float": 0.8
+      }
+    ]
+  },
+  {
+    "id": "collection-set-chopshop",
+    "name": "Chop Shop",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_chopshop_png.png",
+    "items": [
+      {
+        "name": "Glock-18 | Twilight Galaxy",
+        "weapon": "Glock-18",
+        "rarity": "Classified",
+        "rarity_color": "#d32ce6",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_glock_am_aqua_flecks_light_large.png",
+        "min_float": 0,
+        "max_float": 0.2
+      },
+      {
+        "name": "M4A1-S | Hot Rod",
+        "weapon": "M4A1-S",
+        "rarity": "Classified",
+        "rarity_color": "#d32ce6",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_m4a1_silencer_an_red_m4a1s_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "Dual Berettas | Duelist",
+        "weapon": "Dual Berettas",
+        "rarity": "Restricted",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_elite_gs_mother_of_pearl_elite_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "SG 553 | Bulldozer",
+        "weapon": "SG 553",
+        "rarity": "Restricted",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_sg556_so_yellow_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "CZ75-Auto | Emerald",
+        "weapon": "CZ75-Auto",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_cz75a_an_emerald_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "Five-SeveN | Nitro",
+        "weapon": "Five-SeveN",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_fiveseven_so_orange_accents_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "MAC-10 | Fade",
+        "weapon": "MAC-10",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mac10_aa_fade_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "MP7 | Full Stop",
+        "weapon": "MP7",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mp7_hy_varicamo_red_light_large.png",
+        "min_float": 0,
+        "max_float": 0.6
+      },
+      {
+        "name": "P250 | Whiteout",
+        "weapon": "P250",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_p250_so_whiteout_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Desert Eagle | Night",
+        "weapon": "Desert Eagle",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_deagle_so_night_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Galil AR | Urban Rubble",
+        "weapon": "Galil AR",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_galilar_hy_varicamo_urban_light_large.png",
+        "min_float": 0,
+        "max_float": 0.5
+      },
+      {
+        "name": "USP-S | Para Green",
+        "weapon": "USP-S",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_usp_silencer_so_khaki_green_light_large.png",
+        "min_float": 0,
+        "max_float": 0.8
+      },
+      {
+        "name": "CZ75-Auto | Army Sheen",
+        "weapon": "CZ75-Auto",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_cz75a_am_army_shine_light_large.png",
+        "min_float": 0,
+        "max_float": 0.3
+      },
+      {
+        "name": "M249 | Impact Drill",
+        "weapon": "M249",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_m249_so_keycolors_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "MAG-7 | Seabird",
+        "weapon": "MAG-7",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mag7_so_aqua_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "SCAR-20 | Army Sheen",
+        "weapon": "SCAR-20",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_scar20_am_army_shine_light_large.png",
+        "min_float": 0,
+        "max_float": 0.3
+      }
+    ]
+  },
+  {
+    "id": "collection-set-cobblestone",
+    "name": "Cobblestone",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_cobblestone_png.png",
+    "items": [
+      {
+        "name": "AWP | Dragon Lore",
+        "weapon": "AWP",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_awp_cu_medieval_dragon_awp_light_large.png",
+        "min_float": 0,
+        "max_float": 0.7
+      },
+      {
+        "name": "M4A1-S | Knight",
+        "weapon": "M4A1-S",
+        "rarity": "Classified",
+        "rarity_color": "#d32ce6",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_m4a1_silencer_am_metals_light_large.png",
+        "min_float": 0,
+        "max_float": 0.1
+      },
+      {
+        "name": "CZ75-Auto | Chalice",
+        "weapon": "CZ75-Auto",
+        "rarity": "Restricted",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_cz75a_am_royal_light_large.png",
+        "min_float": 0,
+        "max_float": 0.1
+      },
+      {
+        "name": "Desert Eagle | Hand Cannon",
+        "weapon": "Desert Eagle",
+        "rarity": "Restricted",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_deagle_aq_handcannon_light_large.png",
+        "min_float": 0.01,
+        "max_float": 0.7
+      },
+      {
+        "name": "MP9 | Dark Age",
+        "weapon": "MP9",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mp9_am_metal_inlay_light_large.png",
+        "min_float": 0,
+        "max_float": 0.22
+      },
+      {
+        "name": "P2000 | Chainmail",
+        "weapon": "P2000",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_hkp2000_am_chainmail_light_large.png",
+        "min_float": 0,
+        "max_float": 0.22
+      },
+      {
+        "name": "MAG-7 | Silver",
+        "weapon": "MAG-7",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mag7_an_silver_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "Nova | Green Apple",
+        "weapon": "Nova",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_nova_so_green_light_large.png",
+        "min_float": 0,
+        "max_float": 0.3
+      },
+      {
+        "name": "Sawed-Off | Rust Coat",
+        "weapon": "Sawed-Off",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_sawedoff_aq_steel_light_large.png",
+        "min_float": 0,
+        "max_float": 0.8
+      },
+      {
+        "name": "USP-S | Royal Blue",
+        "weapon": "USP-S",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_usp_silencer_hy_indigo_usp_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Dual Berettas | Briar",
+        "weapon": "Dual Berettas",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_elite_hy_vines_light_large.png",
+        "min_float": 0,
+        "max_float": 0.22
+      },
+      {
+        "name": "MAC-10 | Indigo",
+        "weapon": "MAC-10",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mac10_so_indigo_and_grey_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "P90 | Storm",
+        "weapon": "P90",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_p90_so_stormfront_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "SCAR-20 | Storm",
+        "weapon": "SCAR-20",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_scar20_so_stormfront_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "UMP-45 | Indigo",
+        "weapon": "UMP-45",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_ump45_so_indigo_and_grey_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      }
+    ]
+  },
+  {
+    "id": "collection-set-dust-2",
+    "name": "Dust 2",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_dust_2_png.png",
+    "items": [
+      {
+        "name": "R8 Revolver | Amber Fade",
+        "weapon": "R8 Revolver",
+        "rarity": "Classified",
+        "rarity_color": "#d32ce6",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_revolver_aa_fade_metallic_revolver_light_large.png",
+        "min_float": 0,
+        "max_float": 0.4
+      },
+      {
+        "name": "P2000 | Amber Fade",
+        "weapon": "P2000",
+        "rarity": "Restricted",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_hkp2000_aa_fade_metallic_light_large.png",
+        "min_float": 0,
+        "max_float": 0.4
+      },
+      {
+        "name": "M4A1-S | VariCamo",
+        "weapon": "M4A1-S",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_m4a1_silencer_hy_varicamo_light_large.png",
+        "min_float": 0,
+        "max_float": 0.6
+      },
+      {
+        "name": "PP-Bizon | Brass",
+        "weapon": "PP-Bizon",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bizon_aq_brass_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "SG 553 | Damascus Steel",
+        "weapon": "SG 553",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_sg556_aq_damascus_sg553_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "AK-47 | Safari Mesh",
+        "weapon": "AK-47",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_ak47_sp_mesh_tan_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Five-SeveN | Orange Peel",
+        "weapon": "Five-SeveN",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_fiveseven_sp_tape_orange_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "MAC-10 | Palm",
+        "weapon": "MAC-10",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mac10_sp_palm_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Sawed-Off | Snake Camo",
+        "weapon": "Sawed-Off",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_sawedoff_sp_snake_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Tec-9 | VariCamo",
+        "weapon": "Tec-9",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_tec9_hy_varicamo_light_large.png",
+        "min_float": 0,
+        "max_float": 0.6
+      },
+      {
+        "name": "G3SG1 | Desert Storm",
+        "weapon": "G3SG1",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_g3sg1_hy_desert_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "MP9 | Sand Dashed",
+        "weapon": "MP9",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mp9_sp_tape_short_sand_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Nova | Predator",
+        "weapon": "Nova",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_nova_sp_zebracam_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "P250 | Sand Dune",
+        "weapon": "P250",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_p250_so_sand_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "P90 | Sand Spray",
+        "weapon": "P90",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_p90_sp_spray_sand_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "SCAR-20 | Sand Mesh",
+        "weapon": "SCAR-20",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_scar20_sp_mesh_sand_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      }
+    ]
+  },
+  {
+    "id": "collection-set-dust",
+    "name": "Dust",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_dust_png.png",
+    "items": [
+      {
+        "name": "Desert Eagle | Blaze",
+        "weapon": "Desert Eagle",
+        "rarity": "Restricted",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_deagle_aa_flames_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "Glock-18 | Brass",
+        "weapon": "Glock-18",
+        "rarity": "Restricted",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_glock_aq_brass_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "P2000 | Scorpion",
+        "weapon": "P2000",
+        "rarity": "Restricted",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_hkp2000_am_scorpion_p2000_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "AUG | Copperhead",
+        "weapon": "AUG",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_aug_hy_copperhead_light_large.png",
+        "min_float": 0.12,
+        "max_float": 0.38
+      },
+      {
+        "name": "AWP | Snake Camo",
+        "weapon": "AWP",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_awp_sp_snake_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Sawed-Off | Copper",
+        "weapon": "Sawed-Off",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_sawedoff_aq_copper_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "AK-47 | Predator",
+        "weapon": "AK-47",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_ak47_sp_zebracam_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "M4A4 | Desert Storm",
+        "weapon": "M4A4",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_m4a1_hy_desert_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "SCAR-20 | Palm",
+        "weapon": "SCAR-20",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_scar20_sp_palm_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      }
+    ]
+  },
+  {
+    "id": "collection-set-gods-and-monsters",
+    "name": "Gods and Monsters",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_gods_and_monsters_png.png",
+    "items": [
+      {
+        "name": "AWP | Medusa",
+        "weapon": "AWP",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_awp_cu_medusa_awp_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "M4A4 | Poseidon",
+        "weapon": "M4A4",
+        "rarity": "Classified",
+        "rarity_color": "#d32ce6",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_m4a1_cu_poseidon_light_large.png",
+        "min_float": 0,
+        "max_float": 0.33
+      },
+      {
+        "name": "G3SG1 | Chronos",
+        "weapon": "G3SG1",
+        "rarity": "Restricted",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_g3sg1_cu_chronos_g3sg1_light_large.png",
+        "min_float": 0,
+        "max_float": 0.4
+      },
+      {
+        "name": "M4A1-S | Icarus Fell",
+        "weapon": "M4A1-S",
+        "rarity": "Restricted",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_m4a1_silencer_hy_icarus_light_large.png",
+        "min_float": 0,
+        "max_float": 0.1
+      },
+      {
+        "name": "MP9 | Pandora's Box",
+        "weapon": "MP9",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mp9_aa_pandora_light_large.png",
+        "min_float": 0,
+        "max_float": 0.3
+      },
+      {
+        "name": "UMP-45 | Minotaur's Labyrinth",
+        "weapon": "UMP-45",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_ump45_cu_labyrinth_light_large.png",
+        "min_float": 0,
+        "max_float": 0.39
+      },
+      {
+        "name": "AWP | Sun in Leo",
+        "weapon": "AWP",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_awp_hy_zodiac2_light_large.png",
+        "min_float": 0,
+        "max_float": 0.5
+      },
+      {
+        "name": "M249 | Shipping Forecast",
+        "weapon": "M249",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_m249_hy_zodiac3_light_large.png",
+        "min_float": 0,
+        "max_float": 0.5
+      },
+      {
+        "name": "P2000 | Pathfinder",
+        "weapon": "P2000",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_hkp2000_sp_labyrinth2_light_large.png",
+        "min_float": 0,
+        "max_float": 0.35
+      },
+      {
+        "name": "Tec-9 | Hades",
+        "weapon": "Tec-9",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_tec9_hy_hades_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "AUG | Daedalus",
+        "weapon": "AUG",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_aug_sp_labyrinth3_light_large.png",
+        "min_float": 0,
+        "max_float": 0.55
+      },
+      {
+        "name": "Dual Berettas | Moon in Libra",
+        "weapon": "Dual Berettas",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_elite_hy_zodiac1_light_large.png",
+        "min_float": 0,
+        "max_float": 0.5
+      },
+      {
+        "name": "MP7 | Asterion",
+        "weapon": "MP7",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mp7_sp_labyrinth_light_large.png",
+        "min_float": 0,
+        "max_float": 0.55
+      },
+      {
+        "name": "Nova | Moon in Libra",
+        "weapon": "Nova",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_nova_hy_zodiac1_light_large.png",
+        "min_float": 0,
+        "max_float": 0.5
+      }
+    ]
+  },
+  {
+    "id": "collection-set-inferno",
+    "name": "Inferno",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_inferno_png.png",
+    "items": [
+      {
+        "name": "Dual Berettas | Anodized Navy",
+        "weapon": "Dual Berettas",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_elite_an_navy_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "Tec-9 | Brass",
+        "weapon": "Tec-9",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_tec9_aq_brass_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "M4A4 | Tornado",
+        "weapon": "M4A4",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_m4a1_so_tornado_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "P250 | Gunsmoke",
+        "weapon": "P250",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_p250_hy_gelpen_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "MAG-7 | Sand Dune",
+        "weapon": "MAG-7",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mag7_so_sand_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Nova | Walnut",
+        "weapon": "Nova",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_nova_cu_walnut_nova_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      }
+    ]
+  },
+  {
+    "id": "collection-set-italy",
+    "name": "Italy",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_italy_png.png",
+    "items": [
+      {
+        "name": "AWP | Pit Viper",
+        "weapon": "AWP",
+        "rarity": "Restricted",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_awp_hy_snakeskin_light_large.png",
+        "min_float": 0.08,
+        "max_float": 0.5
+      },
+      {
+        "name": "Glock-18 | Candy Apple",
+        "weapon": "Glock-18",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_glock_so_red_light_large.png",
+        "min_float": 0,
+        "max_float": 0.3
+      },
+      {
+        "name": "MP7 | Anodized Navy",
+        "weapon": "MP7",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mp7_an_navy_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "Sawed-Off | Full Stop",
+        "weapon": "Sawed-Off",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_sawedoff_hy_varicamo_red_light_large.png",
+        "min_float": 0,
+        "max_float": 0.6
+      },
+      {
+        "name": "Dual Berettas | Stained",
+        "weapon": "Dual Berettas",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_elite_aq_forced_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "M4A1-S | Boreal Forest",
+        "weapon": "M4A1-S",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_m4a1_silencer_hy_forest_boreal_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Nova | Candy Apple",
+        "weapon": "Nova",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_nova_so_red_light_large.png",
+        "min_float": 0,
+        "max_float": 0.3
+      },
+      {
+        "name": "P2000 | Granite Marbleized",
+        "weapon": "P2000",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_hkp2000_hy_granite_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "UMP-45 | Gunsmoke",
+        "weapon": "UMP-45",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_ump45_hy_gelpen_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "XM1014 | CaliCamo",
+        "weapon": "XM1014",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_xm1014_hy_varicamo_desert_light_large.png",
+        "min_float": 0,
+        "max_float": 0.6
+      },
+      {
+        "name": "AUG | Contractor",
+        "weapon": "AUG",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_aug_so_pmc_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "FAMAS | Colony",
+        "weapon": "FAMAS",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_famas_so_space_marine_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Nova | Sand Dune",
+        "weapon": "Nova",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_nova_so_sand_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "PP-Bizon | Sand Dashed",
+        "weapon": "PP-Bizon",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bizon_sp_tape_short_sand_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Tec-9 | Groundwater",
+        "weapon": "Tec-9",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_tec9_so_olive_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      }
+    ]
+  },
+  {
+    "id": "collection-set-lake",
+    "name": "Lake",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_lake_png.png",
+    "items": [
+      {
+        "name": "Dual Berettas | Cobalt Quartz",
+        "weapon": "Dual Berettas",
+        "rarity": "Restricted",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_elite_am_crystallized_blue_light_large.png",
+        "min_float": 0,
+        "max_float": 0.4
+      },
+      {
+        "name": "P90 | Teardown",
+        "weapon": "P90",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_p90_sp_mesh_hot_and_cold_light_large.png",
+        "min_float": 0,
+        "max_float": 0.6
+      },
+      {
+        "name": "SG 553 | Anodized Navy",
+        "weapon": "SG 553",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_sg556_an_navy_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "USP-S | Night Ops",
+        "weapon": "USP-S",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_usp_silencer_hy_varicamo_night_light_large.png",
+        "min_float": 0,
+        "max_float": 0.6
+      },
+      {
+        "name": "AWP | Safari Mesh",
+        "weapon": "AWP",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_awp_sp_mesh_tan_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Desert Eagle | Mudder",
+        "weapon": "Desert Eagle",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_deagle_hy_mottled_sand_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "FAMAS | Cyanospatter",
+        "weapon": "FAMAS",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_famas_hy_reef_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "PP-Bizon | Night Ops",
+        "weapon": "PP-Bizon",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bizon_hy_varicamo_night_light_large.png",
+        "min_float": 0,
+        "max_float": 0.6
+      },
+      {
+        "name": "XM1014 | Blue Steel",
+        "weapon": "XM1014",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_xm1014_aq_blued_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "AUG | Storm",
+        "weapon": "AUG",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_aug_so_stormfront_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "G3SG1 | Jungle Dashed",
+        "weapon": "G3SG1",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_g3sg1_sp_tape_short_jungle_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Galil AR | Sage Spray",
+        "weapon": "Galil AR",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_galilar_sp_spray_desert_sage_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "P250 | Boreal Forest",
+        "weapon": "P250",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_p250_hy_forest_boreal_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "SG 553 | Waves Perforated",
+        "weapon": "SG 553",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_sg556_sp_tape_dots_waves_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "XM1014 | Blue Spruce",
+        "weapon": "XM1014",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_xm1014_so_moss_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      }
+    ]
+  },
+  {
+    "id": "collection-set-militia",
+    "name": "Militia",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_militia_png.png",
+    "items": [
+      {
+        "name": "SCAR-20 | Splash Jam",
+        "weapon": "SCAR-20",
+        "rarity": "Classified",
+        "rarity_color": "#d32ce6",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_scar20_hy_hunter_blaze_pink_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "M4A4 | Modern Hunter",
+        "weapon": "M4A4",
+        "rarity": "Restricted",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_m4a1_hy_hunter_modern_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Nova | Blaze Orange",
+        "weapon": "Nova",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_nova_hy_hunter_blaze_orange_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Nova | Modern Hunter",
+        "weapon": "Nova",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_nova_hy_hunter_modern_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "P250 | Modern Hunter",
+        "weapon": "P250",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_p250_hy_hunter_modern_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "PP-Bizon | Modern Hunter",
+        "weapon": "PP-Bizon",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bizon_hy_hunter_modern_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "XM1014 | Blaze Orange",
+        "weapon": "XM1014",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_xm1014_hy_hunter_blaze_orange_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "P2000 | Grassland Leaves",
+        "weapon": "P2000",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_hkp2000_sp_leaves_grassland_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "MAC-10 | Tornado",
+        "weapon": "MAC-10",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mac10_so_tornado_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "PP-Bizon | Forest Leaves",
+        "weapon": "PP-Bizon",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bizon_sp_leaves_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "XM1014 | Grassland",
+        "weapon": "XM1014",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_xm1014_so_grassland_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      }
+    ]
+  },
+  {
+    "id": "collection-set-mirage",
+    "name": "Mirage",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_mirage_png.png",
+    "items": [
+      {
+        "name": "MAG-7 | Bulldozer",
+        "weapon": "MAG-7",
+        "rarity": "Restricted",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mag7_so_yellow_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "MAC-10 | Amber Fade",
+        "weapon": "MAC-10",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mac10_aa_fade_metallic_light_large.png",
+        "min_float": 0,
+        "max_float": 0.4
+      },
+      {
+        "name": "MP9 | Hot Rod",
+        "weapon": "MP9",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mp9_an_red_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "UMP-45 | Blaze",
+        "weapon": "UMP-45",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_ump45_aa_flames_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "Glock-18 | Groundwater",
+        "weapon": "Glock-18",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_glock_so_olive_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "MP7 | Orange Peel",
+        "weapon": "MP7",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mp7_sp_tape_orange_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Negev | CaliCamo",
+        "weapon": "Negev",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_negev_hy_varicamo_desert_light_large.png",
+        "min_float": 0,
+        "max_float": 0.6
+      },
+      {
+        "name": "SG 553 | Gator Mesh",
+        "weapon": "SG 553",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_sg556_sp_mesh_python_light_large.png",
+        "min_float": 0,
+        "max_float": 0.6
+      },
+      {
+        "name": "SSG 08 | Tropical Storm",
+        "weapon": "SSG 08",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_ssg08_sp_palm_shadow_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "AUG | Colony",
+        "weapon": "AUG",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_aug_so_space_marine_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Five-SeveN | Contractor",
+        "weapon": "Five-SeveN",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_fiveseven_so_pmc_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "G3SG1 | Safari Mesh",
+        "weapon": "G3SG1",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_g3sg1_sp_mesh_tan_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Galil AR | Hunting Blind",
+        "weapon": "Galil AR",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_galilar_sp_mesh_slashes_light_large.png",
+        "min_float": 0,
+        "max_float": 0.6
+      },
+      {
+        "name": "P250 | Bone Mask",
+        "weapon": "P250",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_p250_sp_tape_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "P90 | Scorched",
+        "weapon": "P90",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_p90_sp_dapple_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      }
+    ]
+  },
+  {
+    "id": "collection-set-nuke",
+    "name": "Nuke",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_nuke_png.png",
+    "items": [
+      {
+        "name": "P250 | Nuclear Threat",
+        "weapon": "P250",
+        "rarity": "Restricted",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_p250_sp_nukestripe_green_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Tec-9 | Nuclear Threat",
+        "weapon": "Tec-9",
+        "rarity": "Restricted",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_tec9_sp_nukestripe_green_tec9_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "M4A4 | Radiation Hazard",
+        "weapon": "M4A4",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_m4a1_sp_nukestripe_orange_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "P90 | Fallout Warning",
+        "weapon": "P90",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_p90_sp_nukestripe_maroon_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "UMP-45 | Fallout Warning",
+        "weapon": "UMP-45",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_ump45_sp_nukestripe_maroon_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "XM1014 | Fallout Warning",
+        "weapon": "XM1014",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_xm1014_sp_nukestripe_maroon_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "MAG-7 | Irradiated Alert",
+        "weapon": "MAG-7",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mag7_sp_nukestripe_brown_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "PP-Bizon | Irradiated Alert",
+        "weapon": "PP-Bizon",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bizon_sp_nukestripe_brown_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Sawed-Off | Irradiated Alert",
+        "weapon": "Sawed-Off",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_sawedoff_sp_nukestripe_brown_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      }
+    ]
+  },
+  {
+    "id": "collection-set-office",
+    "name": "Office",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_office_png.png",
+    "items": [
+      {
+        "name": "MP7 | Whiteout",
+        "weapon": "MP7",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mp7_so_whiteout_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "P2000 | Silver",
+        "weapon": "P2000",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_hkp2000_an_silver_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "G3SG1 | Arctic Camo",
+        "weapon": "G3SG1",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_g3sg1_hy_arctic_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Galil AR | Winter Forest",
+        "weapon": "Galil AR",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_galilar_hy_forest_winter_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "M249 | Blizzard Marbleized",
+        "weapon": "M249",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_m249_hy_blizzard_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "FAMAS | Contrast Spray",
+        "weapon": "FAMAS",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_famas_sp_spray_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      }
+    ]
+  },
+  {
+    "id": "collection-set-overpass",
+    "name": "Overpass",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_overpass_png.png",
+    "items": [
+      {
+        "name": "M4A1-S | Master Piece",
+        "weapon": "M4A1-S",
+        "rarity": "Classified",
+        "rarity_color": "#d32ce6",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_m4a1_silencer_cu_m4a1-s_silence_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "AWP | Pink DDPAT",
+        "weapon": "AWP",
+        "rarity": "Restricted",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_awp_hy_ddpat_pink_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "USP-S | Road Rash",
+        "weapon": "USP-S",
+        "rarity": "Restricted",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_usp_silencer_cu_usp_sandpapered_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "CZ75-Auto | Nitro",
+        "weapon": "CZ75-Auto",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_cz75a_so_orange_accents2_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "SSG 08 | Detour",
+        "weapon": "SSG 08",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_ssg08_hy_ssg08_marker_light_large.png",
+        "min_float": 0,
+        "max_float": 0.43
+      },
+      {
+        "name": "XM1014 | VariCamo Blue",
+        "weapon": "XM1014",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_xm1014_hy_varicamo_blue_light_large.png",
+        "min_float": 0,
+        "max_float": 0.5
+      },
+      {
+        "name": "Desert Eagle | Urban DDPAT",
+        "weapon": "Desert Eagle",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_deagle_hy_ddpat_urb_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Glock-18 | Night",
+        "weapon": "Glock-18",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_glock_so_night_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "MP7 | Gunsmoke",
+        "weapon": "MP7",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mp7_hy_gelpen_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "P2000 | Grassland",
+        "weapon": "P2000",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_hkp2000_so_grassland_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "M249 | Contrast Spray",
+        "weapon": "M249",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_m249_sp_spray_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "MAG-7 | Storm",
+        "weapon": "MAG-7",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mag7_so_stormfront_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "MP9 | Storm",
+        "weapon": "MP9",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mp9_so_stormfront_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Sawed-Off | Sage Spray",
+        "weapon": "Sawed-Off",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_sawedoff_sp_spray_desert_sage_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "UMP-45 | Scorched",
+        "weapon": "UMP-45",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_ump45_sp_dapple_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      }
+    ]
+  },
+  {
+    "id": "collection-set-kimono",
+    "name": "Rising Sun",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_kimono_png.png",
+    "items": [
+      {
+        "name": "AUG | Akihabara Accept",
+        "weapon": "AUG",
+        "rarity": "Covert",
+        "rarity_color": "#eb4b4b",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_aug_cu_anime_aug_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "AK-47 | Hydroponic",
+        "weapon": "AK-47",
+        "rarity": "Classified",
+        "rarity_color": "#d32ce6",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_ak47_am_bamboo_jungle_light_large.png",
+        "min_float": 0,
+        "max_float": 0.8
+      },
+      {
+        "name": "Desert Eagle | Sunset Storm 壱",
+        "weapon": "Desert Eagle",
+        "rarity": "Restricted",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_deagle_am_seastorm_blood_light_large.png",
+        "min_float": 0,
+        "max_float": 0.75
+      },
+      {
+        "name": "Desert Eagle | Sunset Storm 弐",
+        "weapon": "Desert Eagle",
+        "rarity": "Restricted",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_deagle_am_seastorm_shojo_light_large.png",
+        "min_float": 0,
+        "max_float": 0.75
+      },
+      {
+        "name": "Five-SeveN | Neon Kimono",
+        "weapon": "Five-SeveN",
+        "rarity": "Restricted",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_fiveseven_hy_kimono_diamonds_light_large.png",
+        "min_float": 0,
+        "max_float": 0.8
+      },
+      {
+        "name": "M4A4 | Daybreak",
+        "weapon": "M4A4",
+        "rarity": "Restricted",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_m4a1_am_kimono_sunrise_light_large.png",
+        "min_float": 0,
+        "max_float": 0.6
+      },
+      {
+        "name": "Galil AR | Aqua Terrace",
+        "weapon": "Galil AR",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_galilar_am_geometric_steps_light_large.png",
+        "min_float": 0,
+        "max_float": 0.7
+      },
+      {
+        "name": "MAG-7 | Counter Terrace",
+        "weapon": "MAG-7",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mag7_hy_geometric_steps_green_light_large.png",
+        "min_float": 0,
+        "max_float": 0.65
+      },
+      {
+        "name": "Tec-9 | Terrace",
+        "weapon": "Tec-9",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_tec9_hy_geometric_steps_yellow_light_large.png",
+        "min_float": 0,
+        "max_float": 1
+      },
+      {
+        "name": "Desert Eagle | Midnight Storm",
+        "weapon": "Desert Eagle",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_deagle_am_seastorm_light_large.png",
+        "min_float": 0,
+        "max_float": 0.75
+      },
+      {
+        "name": "P250 | Crimson Kimono",
+        "weapon": "P250",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_p250_hy_kimono_diamonds_red_light_large.png",
+        "min_float": 0,
+        "max_float": 0.8
+      },
+      {
+        "name": "G3SG1 | Orange Kimono",
+        "weapon": "G3SG1",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_g3sg1_hy_kimono_diamonds_orange_light_large.png",
+        "min_float": 0,
+        "max_float": 0.8
+      },
+      {
+        "name": "P250 | Mint Kimono",
+        "weapon": "P250",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_p250_sp_kimono_diamonds_light_large.png",
+        "min_float": 0,
+        "max_float": 0.8
+      },
+      {
+        "name": "PP-Bizon | Bamboo Print",
+        "weapon": "PP-Bizon",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bizon_hy_bamboo_jungle_ink_light_large.png",
+        "min_float": 0,
+        "max_float": 0.8
+      },
+      {
+        "name": "Sawed-Off | Bamboo Shadow",
+        "weapon": "Sawed-Off",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_sawedoff_hy_bamboo_jungle_black_light_large.png",
+        "min_float": 0,
+        "max_float": 0.6
+      },
+      {
+        "name": "Tec-9 | Bamboo Forest",
+        "weapon": "Tec-9",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_tec9_hy_bamboo_jungle_light_large.png",
+        "min_float": 0,
+        "max_float": 0.6
+      }
+    ]
+  },
+  {
+    "id": "collection-set-safehouse",
+    "name": "Safehouse",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_safehouse_png.png",
+    "items": [
+      {
+        "name": "M4A1-S | Nitro",
+        "weapon": "M4A1-S",
+        "rarity": "Restricted",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_m4a1_silencer_so_orange_accents_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "FAMAS | Teardown",
+        "weapon": "FAMAS",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_famas_sp_mesh_hot_and_cold_light_large.png",
+        "min_float": 0,
+        "max_float": 0.6
+      },
+      {
+        "name": "Five-SeveN | Silver Quartz",
+        "weapon": "Five-SeveN",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_fiveseven_am_crystallized_silver_light_large.png",
+        "min_float": 0,
+        "max_float": 0.4
+      },
+      {
+        "name": "SSG 08 | Acid Fade",
+        "weapon": "SSG 08",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_ssg08_aa_fade_grassland_light_large.png",
+        "min_float": 0,
+        "max_float": 0.03
+      },
+      {
+        "name": "AUG | Condemned",
+        "weapon": "AUG",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_aug_sp_mesh_forest_fire_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "G3SG1 | VariCamo",
+        "weapon": "G3SG1",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_g3sg1_hy_varicamo_light_large.png",
+        "min_float": 0,
+        "max_float": 0.6
+      },
+      {
+        "name": "Galil AR | VariCamo",
+        "weapon": "Galil AR",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_galilar_hy_varicamo_light_large.png",
+        "min_float": 0,
+        "max_float": 0.6
+      },
+      {
+        "name": "M249 | Gator Mesh",
+        "weapon": "M249",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_m249_sp_mesh_python_light_large.png",
+        "min_float": 0,
+        "max_float": 0.6
+      },
+      {
+        "name": "MP9 | Orange Peel",
+        "weapon": "MP9",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mp9_sp_tape_orange_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "USP-S | Forest Leaves",
+        "weapon": "USP-S",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_usp_silencer_sp_leaves_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Dual Berettas | Contractor",
+        "weapon": "Dual Berettas",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_elite_so_pmc_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "MP7 | Army Recon",
+        "weapon": "MP7",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mp7_sp_spray_army_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "SCAR-20 | Contractor",
+        "weapon": "SCAR-20",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_scar20_so_pmc_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "SSG 08 | Blue Spruce",
+        "weapon": "SSG 08",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_ssg08_so_moss_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Tec-9 | Army Mesh",
+        "weapon": "Tec-9",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_tec9_sp_mesh_army_light_large.png",
+        "min_float": 0,
+        "max_float": 0.6
+      }
+    ]
+  },
+  {
+    "id": "collection-set-train",
+    "name": "Train",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_train_png.png",
+    "items": [
+      {
+        "name": "Tec-9 | Red Quartz",
+        "weapon": "Tec-9",
+        "rarity": "Restricted",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_tec9_am_crystallized_light_large.png",
+        "min_float": 0,
+        "max_float": 0.4
+      },
+      {
+        "name": "Desert Eagle | Urban Rubble",
+        "weapon": "Desert Eagle",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_deagle_hy_varicamo_urban_light_large.png",
+        "min_float": 0,
+        "max_float": 0.5
+      },
+      {
+        "name": "Sawed-Off | Amber Fade",
+        "weapon": "Sawed-Off",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_sawedoff_aa_fade_metallic_light_large.png",
+        "min_float": 0,
+        "max_float": 0.4
+      },
+      {
+        "name": "M4A4 | Urban DDPAT",
+        "weapon": "M4A4",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_m4a1_hy_ddpat_urb_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "MAC-10 | Candy Apple",
+        "weapon": "MAC-10",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mac10_so_red_light_large.png",
+        "min_float": 0,
+        "max_float": 0.3
+      },
+      {
+        "name": "MAG-7 | Metallic DDPAT",
+        "weapon": "MAG-7",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mag7_am_urban_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "P250 | Metallic DDPAT",
+        "weapon": "P250",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_p250_am_urban_light_large.png",
+        "min_float": 0,
+        "max_float": 0.08
+      },
+      {
+        "name": "P90 | Ash Wood",
+        "weapon": "P90",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_p90_sp_twigs_light_large.png",
+        "min_float": 0,
+        "max_float": 0.45
+      },
+      {
+        "name": "SCAR-20 | Carbon Fiber",
+        "weapon": "SCAR-20",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_scar20_am_carbon_fiber_light_large.png",
+        "min_float": 0,
+        "max_float": 0.12
+      },
+      {
+        "name": "Dual Berettas | Colony",
+        "weapon": "Dual Berettas",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_elite_so_space_marine_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Five-SeveN | Forest Night",
+        "weapon": "Five-SeveN",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_fiveseven_hy_forest_night_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "G3SG1 | Polar Camo",
+        "weapon": "G3SG1",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_g3sg1_hy_arctic_contrast_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "Nova | Polar Mesh",
+        "weapon": "Nova",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_nova_sp_mesh_arctic_contrast_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "PP-Bizon | Urban Dashed",
+        "weapon": "PP-Bizon",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bizon_sp_tape_short_urban_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "UMP-45 | Urban DDPAT",
+        "weapon": "UMP-45",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_ump45_hy_ddpat_urb_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      }
+    ]
+  },
+  {
+    "id": "collection-set-vertigo",
+    "name": "Vertigo",
+    "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_vertigo_png.png",
+    "items": [
+      {
+        "name": "Dual Berettas | Demolition",
+        "weapon": "Dual Berettas",
+        "rarity": "Restricted",
+        "rarity_color": "#8847ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_elite_so_tangerine_light_large.png",
+        "min_float": 0.26,
+        "max_float": 0.6
+      },
+      {
+        "name": "AK-47 | Black Laminate",
+        "weapon": "AK-47",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_ak47_hy_ak47lam_bw_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "P90 | Glacier Mesh",
+        "weapon": "P90",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "#4b69ff",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_p90_sp_mesh_glacier_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "PP-Bizon | Carbon Fiber",
+        "weapon": "PP-Bizon",
+        "rarity": "Industrial Grade",
+        "rarity_color": "#5e98d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_bizon_am_carbon_fiber_light_large.png",
+        "min_float": 0,
+        "max_float": 0.12
+      },
+      {
+        "name": "MAC-10 | Urban DDPAT",
+        "weapon": "MAC-10",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_mac10_hy_ddpat_urb_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      },
+      {
+        "name": "XM1014 | Urban Perforated",
+        "weapon": "XM1014",
+        "rarity": "Consumer Grade",
+        "rarity_color": "#b0c3d9",
+        "image": "https://ollumcc.github.io/inventory/imgs/csgo_cdn/weapon_xm1014_sp_tape_dots_urban_light_large.png",
+        "min_float": 0.06,
+        "max_float": 0.8
+      }
+    ]
+  }
+]
