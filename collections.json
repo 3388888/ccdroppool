@@ -1,7 +1,7 @@
 [
   {
     "id": "collection-set-assault",
-    "name": "The Assault Collection",
+    "name": "Assault",
     "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_assault_png.png",
     "items": [
       {
@@ -71,7 +71,7 @@
   },
   {
     "id": "collection-set-chopshop",
-    "name": "The Chop Shop Collection",
+    "name": "Chop Shop",
     "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_chopshop_png.png",
     "items": [
       {
@@ -222,7 +222,7 @@
   },
   {
     "id": "collection-set-cobblestone",
-    "name": "The Cobblestone Collection",
+    "name": "Cobblestone",
     "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_cobblestone_png.png",
     "items": [
       {
@@ -364,7 +364,7 @@
   },
   {
     "id": "collection-set-gods-and-monsters",
-    "name": "The Gods and Monsters Collection",
+    "name": "Gods and Monsters",
     "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_gods_and_monsters_png.png",
     "items": [
       {
@@ -497,7 +497,7 @@
   },
   {
     "id": "collection-set-militia",
-    "name": "The Militia Collection",
+    "name": "Militia",
     "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_militia_png.png",
     "items": [
       {
@@ -603,7 +603,7 @@
   },
   {
     "id": "collection-set-overpass",
-    "name": "The Overpass Collection",
+    "name": "Overpass",
     "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_overpass_png.png",
     "items": [
       {
@@ -745,7 +745,7 @@
   },
   {
     "id": "collection-set-kimono",
-    "name": "The Rising Sun Collection",
+    "name": "Rising Sun",
     "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_kimono_png.png",
     "items": [
       {
@@ -896,7 +896,7 @@
   },
   {
     "id": "collection-set-safehouse",
-    "name": "The Safehouse Collection",
+    "name": "Safehouse",
     "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_safehouse_png.png",
     "items": [
       {
@@ -1038,7 +1038,7 @@
   },
   {
     "id": "collection-set-vertigo",
-    "name": "The Vertigo Collection",
+    "name": "Vertigo",
     "image": "https://raw.githubusercontent.com/fmonper1/counter-strike-image-tracker/refs/heads/main/static/panorama/images/econ/set_icons/set_vertigo_png.png",
     "items": [
       {
