@@ -1836,14 +1836,6 @@
         "max_float": 0.08
       },
       {
-        "name": "★ M9 Bayonet | Icedancer",
-        "rarity": "Covert",
-        "rarity_color": "#eb4b4b",
-        "image": "https://ollumcc.github.io/inventory/imgs/cc/knife_m9_bayonet_icedancer.png",
-        "min_float": 0,
-        "max_float": 0.8
-      },
-      {
         "name": "★ M9 Bayonet | Malachite",
         "rarity": "Covert",
         "rarity_color": "#eb4b4b",
