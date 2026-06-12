@@ -1,0 +1,55 @@
+{
+  "version": "2026-06-12",
+  "last_update": "2026-06-12T14:30:00Z",
+  "cases": [
+    "collection-set-weapons-iii",
+    "collection-set-weapons-i",
+    "collection-set-bravo-i",
+    "collection-set-community-4",
+    "collection-set-community-7",
+    "collection-set-community-12",
+    "collection-set-community-6",
+    "collection-set-classiccounter_1",
+    "collection-set-community-3",
+    "collection-set-community-2",
+    "collection-set-community-10",
+    "collection-set-community-9",
+    "collection-set-community-11",
+    "collection-set-esports",
+    "collection-set-esports-iii"
+  ],
+  "collections": [
+    "collection-set-assault",
+    "collection-set-chopshop",
+    "collection-set-cobblestone",
+    "collection-set-gods-and-monsters",
+    "collection-set-militia",
+    "collection-set-overpass",
+    "collection-set-kimono",
+    "collection-set-safehouse",
+    "collection-set-vertigo"
+  ],
+  "stickerCapsules": [
+    "crate-50002",
+    "crate-50003",
+    "crate-4016",
+    "crate-4014",
+    "crate-4015",
+    "crate-4021",
+    "crate-4020",
+    "crate-4090",
+    "crate-50008",
+    "crate-4183",
+    "crate-4184",
+    "crate-4007",
+    "crate-4012"
+  ],
+  "autographCapsules": [
+    "crate-4111",
+    "crate-4112",
+    "crate-4113",
+    "crate-4114",
+    "crate-4213",
+    "crate-4218"
+  ]
+}
